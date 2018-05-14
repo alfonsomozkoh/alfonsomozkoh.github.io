@@ -46,8 +46,8 @@ theme_settings:
   youtube:
 
   # Scripts / Features 
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
-  disqus_shortname:
+  google_analytics: "UA-116376962-1" # Tracking ID, e.g. "UA-000000-01"
+  disqus_shortname: alfonsomozkoh
   katex: true # Enable if using math markup
   
   special_page:
@@ -59,14 +59,14 @@ theme_settings:
       enabled: true
   
   # Localization strings
-  str_follow_on: "Follow on"
+  str_follow_on: "Sígueme"
   str_rss_follow: "Follow RSS feed"
   str_email: "Email"
-  str_next_post: "Next post"
-  str_previous_post: "Previous post"
-  str_next_page: "Next"
-  str_previous_page: "Prev"
-  str_continue_reading: "Continue reading"
+  str_next_post: "Siguiente post"
+  str_previous_post: "Post previo"
+  str_next_page: "Siguiente"
+  str_previous_page: "Previo"
+  str_continue_reading: "Seguir leyendo"
   str_javascript_required_disqus: "Please enable JavaScript to view comments."
 
   # Colours, typography and padding
@@ -85,7 +85,7 @@ paginate_path: "blog/page:num"
 # PORTFOLIO
 collections:
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:name
 
 
