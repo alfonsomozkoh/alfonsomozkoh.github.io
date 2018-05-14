@@ -6,7 +6,7 @@ feature-img: "assets/img/pexels/circuit.jpeg"
 tags: [Autor]
 ---
 
-##Mi nombre es Alfonso Mozko H.
+## Mi nombre es Alfonso Mozko H.
 
 Mi nombre es Alfonso Mozko H. Soy estudiante del último año de la Lic. En Ciencias de la Informática, adoro los videojuegos y pasar tiempo con mi novia, disfruto mucho de la programación , el diseño web, los idiomas y probar nuevos platillos, en especial la comida Mexicana y Japonesa.
 
