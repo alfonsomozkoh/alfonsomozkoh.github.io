@@ -6,9 +6,10 @@ feature-img: "assets/img/pexels/circuit.jpeg"
 tags: [Autor]
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+##Mi nombre es Alfonso Mozko H.
 
-Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
+Mi nombre es Alfonso Mozko H. Soy estudiante del último año de la Lic. En Ciencias de la Informática, adoro los videojuegos y pasar tiempo con mi novia, disfruto mucho de la programación , el diseño web, los idiomas y probar nuevos platillos, en especial la comida Mexicana y Japonesa.
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+El objetivo de este blog es compartir el conocimiento que a lo largo de mi carrera universitaria he recabado, aprender cada día más de la web y de las demás personas en el Internet, poner en practica mis conocimientos y crear un espacio en donde compartir información que sea libre y ayude a los demás.
+
  
