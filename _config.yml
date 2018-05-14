@@ -22,16 +22,16 @@ theme_settings:
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "alfonsomozkoh@vivaldi.net" # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
-  facebook:
+  facebook: "UnEstudianteDeInformatica"
   flickr:
   gitlab:
-  github: "sylhare"
+  github: "alfonsomozkoh"
   google_plus:
-  instagram:
+  instagram: "alfonsomozkoh"
   keybase:
   linkedin:  # Full URL
   pinterest:
