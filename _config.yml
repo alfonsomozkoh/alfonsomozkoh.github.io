@@ -9,7 +9,7 @@ description: "Un estudiante de informática" # used by search engines
 theme_settings:
   # Meta
   title: Alfonso Mozko H. # blog's title
-  avatar: assets/img/triangle.svg
+  avatar: assets/img/alfonsomozkohme.png
   favicon: assets/alfonsomozkoico.ico
   gravatar: # Email MD5 hash
 
