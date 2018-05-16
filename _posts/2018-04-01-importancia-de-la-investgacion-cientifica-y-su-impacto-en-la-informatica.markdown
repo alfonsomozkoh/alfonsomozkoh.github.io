@@ -36,10 +36,16 @@ En conclusión, la investigación es una búsqueda que se caracteriza por ser re
 
 ## Referencias
 
-[1] Rachel Metz. (2018, febrero) MIT Technology Review. [Online]. <https://www.technologyreview.es/s/10027/tr10-auriculares-de-traduccion-simultanea> 
-[2] Jackie Snow. (2018, febrero) MIT Technology Review. [Online]. <https://www.technologyreview.es/s/10025/tr10-inteligencia-artificial-en-la-nube> 
-[3] Tom Simonite. (2016, agosto) MIT Technology Review. [Online]. <https://www.technologyreview.es/s/6146/ya-no-hace-falta-ser-gigante-para-acceder-serviciosde-inteligencia-artificial> 
+[1] Rachel Metz. (2018, febrero) MIT Technology Review. [Online]. <https://www.technologyreview.es/s/10027/tr10-auriculares-de-traduccion-simultanea>
+
+[2] Jackie Snow. (2018, febrero) MIT Technology Review. [Online]. <https://www.technologyreview.es/s/10025/tr10-inteligencia-artificial-en-la-nube>
+
+[3] Tom Simonite. (2016, agosto) MIT Technology Review. [Online]. <https://www.technologyreview.es/s/6146/ya-no-hace-falta-ser-gigante-para-acceder-serviciosde-inteligencia-artificial>
+
 [4] Tom Simonite. (2017, Julio) MIT Technology Review. [Online]. <https://www.technologyreview.es/s/8057/el-regalo-de-aprendizaje-automatico-que-google-lehizo-al-mundo-y-si-misma>
-[5] Jorge Vásquez, Investigaciones En Tecnologias De Información Informatica. Bloomington, Indiana.: Palibrio LLC, 2014. 
-[6] Marcos Carbonelli, Juan Cruz Esquivel, and Gabriela Irrazábal, Introducción al conocimiento cientifico. Buenos Aires, Argentina: Universidad Nacional Arturo Jauretche, 2017. 
+
+[5] Jorge Vásquez, Investigaciones En Tecnologias De Información Informatica. Bloomington, Indiana.: Palibrio LLC, 2014.
+
+[6] Marcos Carbonelli, Juan Cruz Esquivel, and Gabriela Irrazábal, Introducción al conocimiento cientifico. Buenos Aires, Argentina: Universidad Nacional Arturo Jauretche, 2017.
+ 
 [7] Cristobal Macías Villalobos, "Metodología de la Investigación Científica (Cómo hacer una tesis en la era de la informática)," Revista de la Sección de Filología de la Facultad de Filosofía y Letras, pp. 415-416, 2001.
