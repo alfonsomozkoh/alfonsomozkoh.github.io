@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Galeria
-subtitle: Desde el nucleo de mi kernel
+subtitle: Desde el kernel de mi sistema
 permalink: /galeria/
 gallery_path: "assets/img/pexels"
 tags: [Galeria, Foto]
