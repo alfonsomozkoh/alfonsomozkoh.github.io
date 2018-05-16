@@ -5,11 +5,10 @@ tags: [Blog, Ensayos]
 author: "Alfonso Mozko H"
 ---
 
-    - [Introducción](#introduccion)
-    - [Desarrollo](#desarrollo)
-    - [Conclusión](#conclusion)
-    - [Referencias](#referencias)
-
+```html
+* TOC
+{:toc}
+```
 
 ## Introducción
 
