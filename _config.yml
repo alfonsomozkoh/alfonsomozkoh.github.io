@@ -47,7 +47,7 @@ theme_settings:
 
   # Scripts / Features 
   google_analytics: "UA-116376962-1" # Tracking ID, e.g. "UA-000000-01"
-  disqus_shortname: alfonsomozkoh
+  disqus_shortname: "alfonsomozkoh"
   katex: true # Enable if using math markup
   
   special_page:
@@ -85,7 +85,7 @@ paginate_path: "blog/page:num"
 # PORTFOLIO
 collections:
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:name
 
 
