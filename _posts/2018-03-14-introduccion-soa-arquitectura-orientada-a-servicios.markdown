@@ -22,11 +22,11 @@ REST (Representational State Transfer) es un estilo arquitectónico para sistema
 ### Referencias
 
 [1] Carlos Andrés Morales Machuca. (2014, Febrero) http://studylib.es. [Online].
-http://studylib.es/doc/8717090/estado-del-arte--servicios-web
+<http://studylib.es/doc/8717090/estado-del-arte--servicios-web>
  
 [2] Salvador Otón Tortosa, Antonio Ortiz Baillo, and José Ramón Hilera González. (2006,
 Mayo) Universidade Federal do Rio Grande do Sul. [Online].
-http://www.ufrgs.br/niee/eventos/RIBIE/2006/ponencias/art044.pdf
+<http://www.ufrgs.br/niee/eventos/RIBIE/2006/ponencias/art044.pdf>
 
 [3] Angel Guevara. (2017, Marzo) Speaker Deck. [Online].
-https://speakerdeck.com/faryshta/terminologia-roa
+<https://speakerdeck.com/faryshta/terminologia-roa>
