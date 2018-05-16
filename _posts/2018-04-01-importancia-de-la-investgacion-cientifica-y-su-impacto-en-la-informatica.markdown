@@ -5,11 +5,6 @@ tags: [Blog, Ensayos]
 author: "Alfonso Mozko H"
 ---
 
-```html
-* TOC
-{:toc}
-```
-
 ## Introducción
 
 El objetivo del presente ensayo es enfatizar la importancia de la investigación científica para los estudiantes y profesionales de cualquiera de las ramas de la informática, empezaré con una breve explicación del proceso y los beneficios de su aplicación a la informática, posteriormente y con ayuda de dos ejemplos explicaré el impacto de la investigación científica en las diferentes ramas de la informática, para concluir argumentaré la importancia de la investigación científica con base en lo explicado.
