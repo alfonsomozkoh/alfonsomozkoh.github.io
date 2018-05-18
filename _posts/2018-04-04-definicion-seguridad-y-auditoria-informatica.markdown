@@ -5,11 +5,11 @@ tags: ["Blog, Seguridad, Informática"]
 author: "Alfonso Mozko H."
 ---
 ## Definición de seguridad informática
-La seguridad en informática es la administración y protección de los recursos de cómputo que tiene la empresa y que acezan los usuarios.
+La seguridad en informática es la administración y protección de los recursos de cómputo que tiene la empresa y a los que tienen acceso los usuarios.
 
-El objetivo es el proteger el patrimonio informático de la Institución, entendiendo por tal instalaciones, equipos e información, ésta última en todas sus formas (en cualquier dispositivo de almacenamiento magnético como son los disquetes, discos duros, cintas, cartuchos, etc).
+El objetivo de la seguridad informática es el proteger el patrimonio informático de la institución, entendiendo por tal instalaciones, equipos e información, ésta última en todas sus formas (en cualquier dispositivo de almacenamiento magnético como son los disquetes, discos duros, cintas, cartuchos, etc).
 
-Seguridad en Informática debe de establecer los controles suficientes para disminuir los riesgos que se generan en el ámbito informático.
+La seguridad en Informática debe de establecer los controles suficientes para disminuir los riesgos que se generan en el ámbito informático.
 
 ## Definición de auditoria informática
 La auditoría en informática es una extensión del auditor tradicional, puede definirse como la revisión analítica a la suficiencia de controles establecidos en el ámbito informático, con la finalidad de disminuir los riesgos y garantizar la seguridad, confiabilidad y exactitud de la información.
