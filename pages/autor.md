@@ -2,7 +2,7 @@
 layout: page
 title: Autor
 permalink: /autor/
-feature-img: "assets/img/pexels/afonsomozkoh.jpeg"
+feature-img: "assets/img/pexels/autoralfonsomozkoh.jpeg"
 tags: [Autor]
 ---
 
