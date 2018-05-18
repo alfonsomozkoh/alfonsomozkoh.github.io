@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "¿Cómo se relacionan la seguridad y la auditoria informática?"
-feature-img: "assets/img/pexels/auditoriayseguridad.jpeg"
+feature-img: "assets/img/pexels/auditoriayseguridad.png"
 tags: ["Recursos, Descargas, Ofimática"]
 author: "Alfonso Mozko H."
 ---
