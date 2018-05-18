@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hoja de estilos .xls para crear referencias bibliográficas IEEE en Office 2007 y 2010"
-feature-img: "assets/img/pexels/referenciaieee.jpeg"
+feature-img: "assets/img/pexels/referenciaieee.jpg"
 thumbnail: "assets/img/thumbnails/referenciaieee.jpeg"
 tags: ["Recursos, Descargas, Ofimática"]
 author: "Alfonso Mozko H."
