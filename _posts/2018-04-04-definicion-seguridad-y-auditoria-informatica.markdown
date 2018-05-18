@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "¿Qué es la seguridad y la auditoria informática?"
+title: "Definición de seguridad y auditoria informática"
 tags: ["Blog, Seguridad, Informática"]
 author: "Alfonso Mozko H."
 ---
