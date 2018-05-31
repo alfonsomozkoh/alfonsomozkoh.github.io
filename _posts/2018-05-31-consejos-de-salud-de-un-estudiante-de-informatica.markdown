@@ -5,8 +5,9 @@ feature-img: "assets/img/pexels/aguasnegrasdelimperioyankee.png"
 tags: ["Recomendaciones, Salud, Informática"]
 author: "Alfonso Mozko H."
 ---
-## Mi triste historia
+## Mi triste historia 
 Heme aquí, hablando de salud. Nunca me imagine escribiendo un articulo de salud, y es que yo soy de esas personas que no entiende la diferencia entre una aspirina y un diazepam, para mi solo son pastillas, además yo me enfoque en conocer la anatomía de los ordenadores, no de los seres humanos.
+
 *Antes de continuar quiero que sepan que este articulo tendrá un corte más ligero y no académico como es común en mis blogs ya que no me he preocupado por la manera en que redacto, solo soy yo siendo yo, así como escribo este articulo es como me expreso en la vida real, pienso que ya hacía falta un articulo como este.*
 
 Todo esto a raíz de una dolencia que sufrí hace poco tiempo. Me encontraba totalmente echo bolita en mi cama, aprovechando que en mi país México era un día festivo y no tenia que asistir a la universidad pensé en levantarme tarde, eran mas o menos las 9 de la mañana cuando me despertó una sensación muy fuerte de orinar, pensé en aguantarme pues no quería bajar al baño, estaba muy muy cómodo. No pasaron mas de 10 minutos cuando sentí el primer golpe, como un gancho en la parte inferior de mi espalda, al principio lo tomé con humor, sin embargo, ese dolor se empezó a agudizar rápidamente hasta que tuve que correr al baño pues ya no podía contener mas mis ganas de hacer pipí. Una vez terminado mi cometido pensé que me sentiría mejor, oh gran error, en realidad el dolor seguía agudizándose, hasta que me encontré a mí mismo tirado en el piso del dolor.
