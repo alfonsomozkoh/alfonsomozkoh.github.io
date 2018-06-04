@@ -69,6 +69,6 @@ Espero que esta información haya sido de gran ayuda.
 Si conoces como instalar screenfetch en otra distro que no haya mencionado por favor no dudes en compartirla en los comentarios.
 
 ## Referencias 
-[1] Bohnenkamper, B. (2018). KittyKatt/screenFetch. [online] GitHub. Available at: https://github.com/KittyKatt/screenFetch [Accessed 3 Jun. 2018].
+[1] Bohnenkamper, B. (2018). KittyKatt/screenFetch. [online] GitHub. Available at: https://github.com/KittyKatt/screenFetch [Accessed 1 Jun. 2018].
 
 
