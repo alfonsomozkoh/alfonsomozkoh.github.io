@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Definición de seguridad y auditoria informática"
-tags: ["Blog, Seguridad, Informática"]
+tags: [Blog, Seguridad, Informática]
 author: "Alfonso Mozko H."
 ---
 ## Definición de seguridad informática
