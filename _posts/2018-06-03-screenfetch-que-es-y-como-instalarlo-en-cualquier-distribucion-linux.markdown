@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ScreenFetch, ¿Qué es y cómo instalarlo en todas las distribuciones Linux?"
+title: "ScreenFetch, ¿Qué es y cómo instalarlo en tu distribución GNU/Linux?"
 feature-img: "assets/img/pexels/caracteristicas.png"
 tags: ["Recomendaciones, Linux, Bash, Terminal"]
 author: "Alfonso Mozko H."
@@ -16,11 +16,11 @@ En pocas palabras, screenfetch se trata de una aplicación que se ejecuta desde 
 
 * Si somos usuarios de **Debian** o sus derivados tendremos que usar:
 
-```sudo apt-get install screenfetch```
+`sudo apt-get install screenfetch`
 
 * Para los usuarios de **Archlinux** o sus derivados podemos descargarlo directamente de los repositorios oficiales, desde el [AUR](https://aur.archlinux.org/packages/screenfetch-git) o ejecutando el siguiente comando:
 
-```sudo pacman -S screenfetch```
+`sudo pacman -S screenfetch`
 
 * Para los usuarios de **Fedora** o sus distribuciones derivadas:
 
