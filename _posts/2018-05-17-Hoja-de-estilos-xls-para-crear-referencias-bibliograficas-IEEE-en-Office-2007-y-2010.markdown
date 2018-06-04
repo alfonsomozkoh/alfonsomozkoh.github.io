@@ -2,8 +2,8 @@
 layout: post
 title: "Hoja de estilos .xls para crear referencias bibliográficas IEEE en Office 2007 y 2010"
 feature-img: "assets/img/pexels/referenciaieee.jpg"
-tags: ["Recursos, Descargas, Ofimática"]
-author: "Alfonso Mozko H."
+tags: [Recursos, Descargas, Ofimática]
+author: [Alfonso Mozko H.]
 ---
 ## No todos sabemos crear referencias IEEE
 En este penúltimo semestre he tenido que tomar la asignatura de *Titulación 1*, la cual me prepara para iniciar el desarrollo de mi tesis y así el siguiente semestre pueda presentarla formalmente en *Titulación 2* y por ende titularme. Todo empezó genial, elegí un profesor excelente, estricto pero justo, a mi equipo y a mí nos hizo ver que necesitábamos aprender a redactar de manera correcta nuestra investigación y sobre todo a usar los métodos formales de citación para dar un formato adecuado a nuestra documentación.
