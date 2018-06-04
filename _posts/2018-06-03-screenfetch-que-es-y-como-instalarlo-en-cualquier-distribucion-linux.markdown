@@ -2,7 +2,7 @@
 layout: post
 title: "ScreenFetch, ¿Qué es y cómo instalarlo en tu distribución GNU/Linux?"
 feature-img: "assets/img/pexels/caracteristicas.png"
-tags: ["Recomendaciones"]["Linux"]["Bash"]["Terminal"]
+tags: ["Linux"]
 author: "Alfonso Mozko H."
 ---
 ## ¿Qué es screenfetch?
