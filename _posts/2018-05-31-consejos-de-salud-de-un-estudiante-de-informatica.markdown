@@ -2,8 +2,8 @@
 layout: post
 title: "Consejos de salud de un estudiante de informática"
 feature-img: "assets/img/pexels/aguasnegrasdelimperioyankee.png"
-tags: ["Recomendaciones, Salud, Informática"]
-author: "Alfonso Mozko H."
+tags: [Recomendaciones, Salud, Informática]
+author: [Alfonso Mozko H.]
 ---
 Heme aquí, hablando de salud. Nunca me imagine escribiendo un articulo de salud, y es que yo soy de esas personas que no entiende la diferencia entre una aspirina y un diazepam, para mi solo son pastillas, además yo me enfoque en conocer la anatomía de los ordenadores, no de los seres humanos.
 
