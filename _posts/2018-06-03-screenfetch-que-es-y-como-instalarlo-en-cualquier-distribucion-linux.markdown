@@ -51,7 +51,7 @@ Si lo que quieres es realizar una captura de pantalla para compartirla en tus re
 
 
 ### Que screenfetch se ejecute cada vez que se abre la terminal
-Aun que no veo ningún uso práctico,pero pues ¿Quién soy yo para detenerte? asi que YOLO, el comando que estas buscando y debes ejecutar en la terminal es el siguiente:
+Aun que no veo ningún uso práctico, pero pues ¿Quién soy yo para detenerte? asi que YOLO, el comando que estas buscando y debes ejecutar en la terminal es el siguiente:
 
 `sudo nano /etc/bash.bashrc`
 
