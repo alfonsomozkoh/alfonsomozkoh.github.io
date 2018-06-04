@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Una breve introducción SOA, ROA y REST"
-tags: ["Programación, SOA, ROA"]
-author: ["Yazmin Pedraza O., Luis G. López R., Rogelio Ramírez R., Alfonso Mozko H." ]
+tags: [Programación, SOA, ROA]
+author: [Yazmin Pedraza O., Luis G. López R., Rogelio Ramírez R., Alfonso Mozko H. ]
 ---
 ## Service Oriented Architecture
 Arquitectura orientada a servicios en español, fue descrita por primera vez por Gartner en 1996. SOA fue evolucionando desde que fueron Web Services con estándares de transferencia XML a SOA que incorpora XML, SOAP, WSDL, UDDI, Bus. Morales [1] comenta,
