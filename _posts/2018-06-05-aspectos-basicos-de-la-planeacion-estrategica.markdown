@@ -12,10 +12,10 @@ Es determinar dónde vamos a estar en el futuro como empresa, en función de las
 Nos ayuda a tener un concepto de nuestra empresa, lo cual hace posible la formulación de planes y actividades que nos lleven a lograr el objetivo fijado.
 ***Si las empresas fracasan es porque no se han adaptado a los cambios:***
 
-1.Sociales.
-2.Culturales.
-3.Económicos.
-4.Tecnológicos.
+1. Sociales.
+2. Culturales.
+3. Económicos.
+4. Tecnológicos.
 
 ### La falta de planeación estratégica dentro de las empresas genera:
 
@@ -35,10 +35,10 @@ Nos ayuda a tener un concepto de nuestra empresa, lo cual hace posible la formul
 + Facilita anticiparse, adaptarse y permanecer frente a los cambios económicos, tecnológicos, legales, y políticos.
 
 ### Fases de la planeación estratégica
-1.Formulación del plan estratégico
-2.Implementación de los planes o programas de acción
-3.Evaluación 
-4.Seguimiento 
+1. Formulación del plan estratégico
+2. Implementación de los planes o programas de acción
+3. Evaluación 
+4. Seguimiento 
 
 ### ¿Qué es el pensamiento estratégico?
 Es el conocimiento que implica Imaginación, intuición, iniciativa, fuerza mental e impulso que permite identificar y localizar oportunidades para obtener una ventaja competitiva, así como las amenazas y riesgos que se deben evitar.
