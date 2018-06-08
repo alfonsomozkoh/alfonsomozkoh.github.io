@@ -2,7 +2,7 @@
 layout: post
 title: "El sistema de archivos de Linux"
 feature-img: "assets/img/pexels/archivos_linux.png"
-tags: [Informática, Gobierno de TI, Planeación Estratégica]
+tags: [Informática, Linux, Sistema de archivos]
 author: [Alfonso Mozko H.]
 ---
 ## ¿Qué es un archivo?
