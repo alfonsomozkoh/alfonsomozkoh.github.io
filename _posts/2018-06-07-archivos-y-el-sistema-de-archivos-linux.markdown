@@ -34,7 +34,7 @@ A la estructura resultante de esta organización se la conoce con el nombre de *
 
 En él, todos los archivos y directorios dependen de un único directorio denominado *directorio raíz o root*, el cual se representa por el símbolo *slash “/”*. En el caso de que tengamos varios dispositivos físicos de almacenamiento secundario en el sistema, (normalmente discos o particiones de discos), todos deben depender del directorio raíz, como un subdirectorio que depende, directa o indirectamente de la raíz. A esta operación se la conoce con el nombre de **montaje de un subsistema de archivos**.
 
-![Esquema de árbol invertido en los directorios de Linux]({{ https://alfonsomozkoh.github.io }}assets/img/pexels/estructura_arbol_directorios_linux.png)
+![Esquema de árbol invertido en los directorios de Linux]({{ site.baseurl }}/assets/img/pexels/estructura_arbol_directorios_linux.png)
 
 Los archivos se identifican en la estructura de directorios por lo que se conoce como *pathname* o camino. Así, la cadena **/etc/passwd** identifica a **passwd** como un elemento que cuelga del directorio **etc** el cual a su vez cuelga del directorio raíz. (**/**). A partir de la cadena **/etc/passwd** no podemos saber si **passwd** es un archivo o directorio. Cuando el nombre del camino empieza con el carácter **/** se dice que el camino es absoluto. Linux también dispone de nombres de camino relativos, por ejemplo, si nuestro directorio actual es **/usr**, la cadena **bin/troff** identifica al archivo o directorio **/usr/bin/troff**. A esta cadena se la conoce, como *camino relativo* puesto que no comienza con el símbolo *slash*.
 
