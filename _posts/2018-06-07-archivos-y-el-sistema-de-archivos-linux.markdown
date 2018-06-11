@@ -43,4 +43,19 @@ Cuando creamos un directorio se crean automáticamente dos subdirectorios cuyos 
 
 “**.**” es una entrada en el directorio que identifica al directorio mismo y “**..**” es una entrada en el directorio padre, es decir, aquel directorio del cual cuelga el subdirectorio actual. Las cadenas “**.**” y “**..**” también pueden ser utilizadas en el nombre de un camino relativo.    
 
-        
+Por ejemplo:
+Si consideramos el archivo **xterm**, éste puede ser referenciado tanto por su ruta absoluta como por la relativa. La ruta absoluta es algo que no depende de nuestra posición actual y es de la forma: 
+
+** /usr/bin/X11/xterm ** 
+
+La ruta relativa depende del directorio en que nos encontremos en cada instante. Por ejemplo, si estuviéramos colocados en el directorio ** /usr/lib **, la ruta relativa de **xterm** sería:
+
+**../bin/X11/xterm** 
+
+Si estuviesemos en el directorio **/usr/bin**, la ruta relativa sería:
+
+**X11/xterm**
+
+En Linux si hay diferencia entre letras mayúsculas y minúsculas tambien para las rutas de archivos. Asi, el directorio cuya ruta es **/usr/bin/X11** no es lo mismo que **/usr/bin/x11**, en el caso de que este último existiera.
+
+           
