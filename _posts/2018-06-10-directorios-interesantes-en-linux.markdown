@@ -22,16 +22,16 @@ Del directorio **/home** cuelgan los diferentes directorios de trabajo de cada u
 ## /usr 
 De este directorio colgaban en las primeras versiones de UNIX los subdirectorios de trabajo de los usuarios. En la actualidad el directorio **/usr** contiene también archivos que posteriormente utilizan otras órdenes de Linux. De **/usr** cuelgan también algunos subdirectorios importantes como pueden ser:
 
-### /usr/bin
++ ### /usr/bin
 Contiene programas ejecutables que de alguna forma son mayores en tamaño y se utilizan con menos frecuencia que las órdenes del directorio **/bin**.
 
-### /usr/lib
++ ### /usr/lib
 Contiene archivos de bibliotecas utilizados por los compiladores de lenguajes como FORTRAN, Pascal, C, etc. 
 
-### /usr/man
++ ### /usr/man
 Contiene las páginas del manual en el disco del ordenador. La orden **man**, de la cual hablaré a fondo en otro artículo, lo único que hace es buscar en este directorio la información solicitada por el usuario y formatearla para que aparezca adecuadamente en la terminal.
 
-### /usr/local/bin  y /usr/contrib/bin
++ ### /usr/local/bin  y /usr/contrib/bin
 Directorios generalmente creados por los administradores del sistema para contener archivos ejecutables que forman parte de Linux. Cualquier usuario (osado) que desarrolle una nueva utilidad, puede dejarla en uno de los dos directorios anteriores de modo que sea accesible al resto de los usuarios.
 
 ## /etc
