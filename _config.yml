@@ -15,7 +15,7 @@ theme_settings:
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>Un Estudiante <br> de Informática</p>
+     <p> alfonsomozkoh@UnEstudianteDeInformática:~$ <br> wget https://alfonsomozkoh.github.io/ </p>
   header_text_feature_image: assets/img/pexels/anon.png
   footer_text: >
    Creado con <a href="https://jekyllrb.com/">Jekyll</a> editado por <a href="https://www.facebook.com/UnEstudianteDeInformatica/">Alfonso Mozko H.</a>
