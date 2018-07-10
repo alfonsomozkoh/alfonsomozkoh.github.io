@@ -5,12 +5,12 @@ tags:
 - Programación
 - SOA
 - ROA
-layout: post
 author:
 - Yazmin Pedraza O.
 - Luis G. López R.
 - Rogelio Ramírez R.
 - Alfonso Mozko H.
+layout: post
 ---
 
 ## Service Oriented Architecture
