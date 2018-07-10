@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Ninja
-img: "assets/img/portfolio/ninja.png"
-date: April, 08 2014
-tags: [Lorem]
+date: 2014-04-08 00:00:00 Z
+tags:
+- Lorem
+layout: post
+img: assets/img/portfolio/ninja.png
 ---
 
 ![image]({{ site.baseurl }}/{{ page.img }})

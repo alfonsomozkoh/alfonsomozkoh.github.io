@@ -1,10 +1,17 @@
 ---
+title: " Kivy: El Framework de código abierto para el desarrollo rápido de aplicaciones
+  en Python"
+date: 2018-06-16 00:00:00 Z
+tags:
+- Programación
+- Recomendaciones
+- Multiplataforma
 layout: post
-title: " Kivy: El Framework de código abierto para el desarrollo rápido de aplicaciones en Python"
-feature-img: "assets/img/pexels/kivy.png"
-tags: [Programación, Recomendaciones, Multiplataforma]
-author: [Alfonso Mozko H.]
+feature-img: assets/img/pexels/kivy.png
+author:
+- Alfonso Mozko H.
 ---
+
 Python es considerado por muchos como un lenguaje de programación fácil de aprender, sin mencionar que se trata de uno muy potente con un consumo de recursos sumamente bajo. 
 
 Existen muchas maneras de eficientar la programación en Python, constantemente aparecen nuevas versiones de [frameworks](https://alfonsomozkoh.github.io/2018/06/15/que-es-un-framework.html), que son herramientas con estándares y mejoras  que ayudan a los programadores a crear mejores aplicaciones en menor tiempo, en [mi artículo previo](https://alfonsomozkoh.github.io/2018/06/15/que-es-un-framework.html) hablo más a fondo sobre que es un framework.

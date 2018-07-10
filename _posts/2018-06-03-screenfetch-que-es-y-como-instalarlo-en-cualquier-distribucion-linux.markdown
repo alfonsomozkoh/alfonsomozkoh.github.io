@@ -1,10 +1,17 @@
 ---
+title: ScreenFetch, ¿Qué es y cómo instalarlo en tu distribución GNU/Linux?
+date: 2018-06-03 00:00:00 Z
+tags:
+- Linux
+- Terminal
+- Recomendaciones
+- Distros
 layout: post
-title: "ScreenFetch, ¿Qué es y cómo instalarlo en tu distribución GNU/Linux?"
-feature-img: "assets/img/pexels/caracteristicas.png"
-tags: [Linux, Terminal, Recomendaciones, Distros]
-author: [Alfonso Mozko H.]
+feature-img: assets/img/pexels/caracteristicas.png
+author:
+- Alfonso Mozko H.
 ---
+
 ## ¿Qué es screenfetch?
 Screenfetch según Bohnenkamper [1] se trata de:
 >  Una "herramienta de información Bash Screenshot". Un práctico script de Bash que se puede utilizar para generar una ingeniosa ficha de que provee información sobre la distribución que se está usando, el tema del terminal, el kernel, el entorno de escritorio, CPU, RAM, y logotipos según la distribución en ASCII que se ven en las capturas de pantalla de todos los días.

@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Circus
-img: "assets/img/portfolio/circus.png"
-date: September 2014
-tags: [Ipsum]
+date: 2014-09-01 00:00:00 Z
+tags:
+- Ipsum
+layout: post
+img: assets/img/portfolio/circus.png
 ---
 
 ![image]({{ site.baseurl }}/{{ page.img }})

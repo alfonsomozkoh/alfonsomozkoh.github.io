@@ -1,9 +1,14 @@
 ---
+title: Definición de seguridad y auditoria informática
+date: 2018-04-04 00:00:00 Z
+tags:
+- Blog
+- Seguridad
+- Informática
 layout: post
-title: "Definición de seguridad y auditoria informática"
-tags: [Blog, Seguridad, Informática]
-author: "Alfonso Mozko H."
+author: Alfonso Mozko H.
 ---
+
 ## Definición de seguridad informática
 La seguridad en informática es la administración y protección de los recursos de cómputo que tiene la empresa y a los que tienen acceso los usuarios.
 

@@ -1,10 +1,16 @@
 ---
+title: Aspectos básicos de la Planeación Estratégica
+date: 2018-06-05 00:00:00 Z
+tags:
+- Informática
+- Gobierno de TI
+- Planeación Estratégica
 layout: post
-title: "Aspectos básicos de la Planeación Estratégica"
-feature-img: "assets/img/pexels/planeacionestrategica.png"
-tags: [Informática, Gobierno de TI, Planeación Estratégica]
-author: [Alfonso Mozko H.]
+feature-img: assets/img/pexels/planeacionestrategica.png
+author:
+- Alfonso Mozko H.
 ---
+
 ## ¿Qué es la planeación estratégica? 
 Es determinar dónde vamos a estar en el futuro como empresa, en función de las decisiones que tomemos hoy.
 

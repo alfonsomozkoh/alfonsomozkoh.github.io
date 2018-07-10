@@ -1,9 +1,10 @@
 ---
-layout: page
 title: Autor
-permalink: /autor/
-feature-img: "assets/img/pexels/tech.png"
-tags: [Autor]
+permalink: "/autor/"
+layout: page
+feature-img: assets/img/pexels/tech.png
+tags:
+- Autor
 ---
 
 ## Mi nombre es Alfonso Mozko H.

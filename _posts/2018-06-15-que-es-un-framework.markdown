@@ -1,10 +1,17 @@
 ---
-layout: post
 title: "¿Qué es un Framework?"
-feature-img: "assets/img/pexels/framework.png"
-tags: [Informática, Framework, Desarrollo, Programación]
-author: [Alfonso Mozko H.]
+date: 2018-06-15 00:00:00 Z
+tags:
+- Informática
+- Framework
+- Desarrollo
+- Programación
+layout: post
+feature-img: assets/img/pexels/framework.png
+author:
+- Alfonso Mozko H.
 ---
+
 ## ¿Qué es un framework o software framework?
 Un **framework** o **software framework**, es una plataforma para el desarrollo de aplicaciones de software. Ofrecen a los desarrolladores una base sobre la cual pueden construir o desarrollar programas para una plataforma específica. Por ejemplo, un framework suele contener clases y funciones predefinidas que pueden ser utilizadas para agilizar la entrada de datos, administración de piezas de hardware y facilitar la interacción con otros sistemas de software. 
 

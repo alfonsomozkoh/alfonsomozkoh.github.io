@@ -1,10 +1,19 @@
 ---
-layout: post
 title: " ¿Por qué es importante aprender SQL?"
-feature-img: "assets/img/pexels/importancia_de_sql.png"
-tags: [SQL, Curso SQL, SELECT, SELECT * FROM, WHERE, Aprender SQL]
-author: [Alfonso Mozko H.]
+date: 2018-07-05 00:00:00 Z
+tags:
+- SQL
+- Curso SQL
+- SELECT
+- SELECT * FROM
+- WHERE
+- Aprender SQL
+layout: post
+feature-img: assets/img/pexels/importancia_de_sql.png
+author:
+- Alfonso Mozko H.
 ---
+
 ## Empecemos por el principio. ¿Qué es SQL?
 SQL son las siglas de **Structured Query Language** o **lenguaje de consulta estructurado** por sus siglas en inglés, es utilizado para comunicarnos con una base de datos en donde SQL es el lenguaje estándar para los sistemas manejadores de bases de datos (SQL Server, Access, MySQL, Oracle, etc.).
 

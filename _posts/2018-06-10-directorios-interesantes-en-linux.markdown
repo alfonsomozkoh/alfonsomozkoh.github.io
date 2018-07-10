@@ -1,10 +1,17 @@
 ---
+title: 'Directorios interesantes en Linux  '
+date: 2018-06-10 00:00:00 Z
+tags:
+- Informática
+- Linux
+- Sistema de Archivos
+- Terminal
 layout: post
-title: "Directorios interesantes en Linux  "
-feature-img: "assets/img/pexels/directorios-linux.png"
-tags: [Informática, Linux, Sistema de Archivos, Terminal]
-author: [Alfonso Mozko H.]
+feature-img: assets/img/pexels/directorios-linux.png
+author:
+- Alfonso Mozko H.
 ---
+
 Linux a diferencia de otros sistemas operativos, tienen una estructura de directorios estándar semejante a la [estructura de árbol invertido]( https://alfonsomozkoh.github.io/2018/06/07/archivos-y-el-sistema-de-archivos-linux.html) que por cierto explico más a fondo en mi [artículo previo]( https://alfonsomozkoh.github.io/2018/06/07/archivos-y-el-sistema-de-archivos-linux.html) . A continuación les presento algunos directorios que merecen mención especial.
 
 ## El directorio Raíz  /

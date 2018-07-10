@@ -1,9 +1,11 @@
 ---
-layout: post
 title: Github
-img: "assets/img/portfolio/github.png"
-date: 20-10-2017
-tags: [Lorem, Portfolio]
+date: 2017-10-20 00:00:00 Z
+tags:
+- Lorem
+- Portfolio
+layout: post
+img: assets/img/portfolio/github.png
 ---
 
 ![image]({{ site.baseurl }}/{{ page.img }})

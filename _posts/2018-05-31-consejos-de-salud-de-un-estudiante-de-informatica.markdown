@@ -1,10 +1,16 @@
 ---
+title: Consejos de salud de un estudiante de informática
+date: 2018-05-31 00:00:00 Z
+tags:
+- Recomendaciones
+- Salud
+- Informática
 layout: post
-title: "Consejos de salud de un estudiante de informática"
-feature-img: "assets/img/pexels/aguasnegrasdelimperioyankee.png"
-tags: [Recomendaciones, Salud, Informática]
-author: [Alfonso Mozko H.]
+feature-img: assets/img/pexels/aguasnegrasdelimperioyankee.png
+author:
+- Alfonso Mozko H.
 ---
+
 Heme aquí, hablando de salud. Nunca me imagine escribiendo un articulo de salud, y es que yo soy de esas personas que no entiende la diferencia entre una aspirina y un diazepam, para mi solo son pastillas, además yo me enfoque en conocer la anatomía de los ordenadores, no de los seres humanos.
 
 *Antes de continuar quiero que sepan que este articulo tendrá un corte más ligero y no académico como es común en mis blogs ya que no me he preocupado por la manera en que redacto, solo soy yo siendo yo, así como escribo este articulo es como me expreso en la vida real, pienso que ya hacía falta un articulo como este.*

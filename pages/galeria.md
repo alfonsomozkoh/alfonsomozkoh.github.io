@@ -1,10 +1,12 @@
 ---
-layout: page
 title: Galeria
+permalink: "/galeria/"
+layout: page
 subtitle: Desde el kernel de mi sistema
-permalink: /galeria/
-gallery_path: "assets/img/pexels"
-tags: [Galeria, Foto]
+gallery_path: assets/img/pexels
+tags:
+- Galeria
+- Foto
 ---
 
 Esta es una pequeña galeria creada con los archivos que utilizo en cada una de mis publicaciones.

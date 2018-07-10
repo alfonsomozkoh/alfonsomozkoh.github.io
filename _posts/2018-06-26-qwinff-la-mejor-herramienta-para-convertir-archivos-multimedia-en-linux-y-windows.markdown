@@ -1,10 +1,20 @@
 ---
+title: " QWinFF: La herramienta para convertir archivos multimedia en Linux que estabas
+  buscando"
+date: 2018-06-26 00:00:00 Z
+tags:
+- Linux
+- Recomendaciones
+- Multiplataforma
+- qwinff
+- handbrake
+- Convertidor
 layout: post
-title: " QWinFF: La herramienta para convertir archivos multimedia en Linux que estabas buscando"
-feature-img: "assets/img/pexels/qwinff.png"
-tags: [Linux, Recomendaciones, Multiplataforma, qwinff, handbrake, Convertidor]
-author: [Alfonso Mozko H.]
+feature-img: assets/img/pexels/qwinff.png
+author:
+- Alfonso Mozko H.
 ---
+
 Estoy más que seguro que alguna vez te encontraste con la necesidad de convertir un video de un formato a otro, o quizá un archivo de audio, y si eres del tipo de personas ultra [pragmáticas]( https://www.significados.com/pragmatico/) lo googleaste y terminaste utilizando una herramienta en línea para salir del apuro y listo. Pero, ¿y si en el futuro necesitas de nuevo cambiar el formato de un archivo multimedia?, que tal te vendría un software (gratis y open source además) para realizar esta tarea.
 
 ## ¿Qué es QWinFF? 

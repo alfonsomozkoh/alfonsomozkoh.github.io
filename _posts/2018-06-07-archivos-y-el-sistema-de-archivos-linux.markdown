@@ -1,10 +1,16 @@
 ---
+title: El sistema de archivos de Linux
+date: 2018-06-07 00:00:00 Z
+tags:
+- Informática
+- Linux
+- Sistema de archivos
 layout: post
-title: "El sistema de archivos de Linux"
-feature-img: "assets/img/pexels/archivos_linux.png"
-tags: [Informática, Linux, Sistema de archivos]
-author: [Alfonso Mozko H.]
+feature-img: assets/img/pexels/archivos_linux.png
+author:
+- Alfonso Mozko H.
 ---
+
 ## ¿Qué es un archivo?
 Podríamos definir de forma genérica el termino archivo como un conjunto de datos con un nombre asociado. 
 

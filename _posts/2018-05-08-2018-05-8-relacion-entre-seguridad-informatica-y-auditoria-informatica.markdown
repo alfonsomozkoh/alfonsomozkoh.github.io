@@ -1,10 +1,17 @@
 ---
-layout: post
 title: "¿Cómo se relacionan la seguridad y la auditoria informática?"
-feature-img: "assets/img/pexels/auditoriayseguridad.png"
-tags: [Blog, Seguridad, Auditoria, Informática]
-author: [Alfonso Mozko H.]
+date: 2018-05-08 00:00:00 Z
+tags:
+- Blog
+- Seguridad
+- Auditoria
+- Informática
+layout: post
+feature-img: assets/img/pexels/auditoriayseguridad.png
+author:
+- Alfonso Mozko H.
 ---
+
 ## ¿Cómo se relacionan la seguridad y la auditoria informática?
 La seguridad informática establece controles y la auditoría informática sugiere y revisa.
 En algunas ocasiones es difícil diferenciar el papel del Oficial de Seguridad en Informática y el del Auditor de Sistemas. Ambos comparten el control de la función de procesamiento de datos, dictaminan los estándares para la industria y la organización, y pugnan por conservar los activos informáticos de la empresa.
