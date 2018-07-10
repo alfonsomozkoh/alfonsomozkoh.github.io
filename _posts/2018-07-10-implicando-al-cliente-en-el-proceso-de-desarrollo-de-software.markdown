@@ -2,12 +2,9 @@
 title: "Los buenos programadores son buenos comunicadores: Implicando al cliente en el proceso de desarrollo de un sistema"
 date: 2018-07-10 00:00:00 Z
 tags:
-- SQL
-- Curso SQL
-- SELECT
-- SELECT * FROM
-- WHERE
-- Aprender SQL
+- Desarrollo
+- Buenas practicas
+- Programación
 layout: post
 feature-img: assets/img/pexels/programador_buen_comunicador.png
 author:
