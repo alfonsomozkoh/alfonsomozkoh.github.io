@@ -11,15 +11,15 @@ layout: default
     </p>
   </header>
   <section class="post-content">{{ content }}</section>
+  
+<!-- Post advertisements -->
+{% include advertisements.html %}
    
    <!-- Tag list -->
   {% capture tag_list %}{{ page.tags | join: "|"}}{% endcapture %}
   {% include tags_list.html tags=tag_list %}
     
 </article>
-
-<!-- Post advertisements -->
-{% include advertisements.html %}
 
 <!-- Disqus -->
 {% if site.theme_settings.disqus_shortname %}
