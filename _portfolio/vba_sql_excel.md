@@ -19,6 +19,7 @@ Empecemos con algo de contexto
 
 ### Casi en el final del camino
 No hace mucho tiempo que concluyo el semestre, así que tome la decisión de buscar un empleo de medio tiempo para pasar las vacaciones activo además de ahorrar algo de dinero para el siguiente semestre no andar sufriendo las indulgencias del proceso de ser un “ *estudihambre* ”.
+
 Si bien es cierto que desde hace poco más de dos años he sobrevivido desarrollando proyectos independientes como *freelance*, entre más se acerca el momento que concluya mis estudios universitarios me es imperativo conseguir experiencia en el mercado laboral. Ya saben, empezar a hacer carrera de verdad para alcanzar experiencia, una posición buena y en general una mejor calidad de vida lo más pronto posible.
 
 ### Mi relación de amor-odio con Microsoft
