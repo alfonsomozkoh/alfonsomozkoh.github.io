@@ -14,7 +14,7 @@ img: assets/img/portfolio/visual_basic_for_aplications.png
 
 ![image]({{ site.baseurl }}/{{ page.img }})
 
-*Antes de continuar debo advertir que este articulo tendrá un corte más ligero y no académico como es común en mis aticulos ya que no me he preocupado por la manera en que redacto, solo soy yo siendo yo, así como escribo este articulo es como me expreso en la vida real.*
+*Advertencia: El siguiente articulo tendrá un corte más ligero y no académico como es común en mis aticulos ya que no me he preocupado por la manera en que redacto, solo soy yo siendo yo, así como escribo este articulo es como me expreso en la vida real.*
 
 Empecemos con algo de contexto.
 *Antes de continuar quiero que sepan que este articulo tendrá un corte más ligero y no académico como es común en mis blogs ya que no me he preocupado por la manera en que redacto, solo soy yo siendo yo, así como escribo este artículo es como me expreso en la vida real, pienso que ya hacía falta un artículo como este.*
