@@ -1,5 +1,5 @@
 ---
-title: Alfonso Mozko H. | Un Estudiante de Informática
+title: Alfonso Mozko H.
 timezone: UTC
 collections:
   portfolio:
@@ -16,7 +16,7 @@ baseurl:
 url: https://alfonsomozkoh.github.io
 description: Un estudiante de informática
 theme_settings:
-  title: Alfonso Mozko H.
+  title: Alfonso Mozko H. | Un estudiante de informática
   avatar: assets/img/alfonsomozkohme.png
   favicon: assets/alfonsomozkoico.ico
   gravatar: 
