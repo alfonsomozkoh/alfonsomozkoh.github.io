@@ -1,0 +1,614 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    
+    <!-- Main JS (navbar.js, katex_init.js and masonry_init.js)-->
+    <script defer=true src="/assets/js/main.min.js"></script>
+    
+    <!-- CSS -->
+    <link rel="stylesheet" href="/assets/css/main.css">
+
+    <!--Favicon-->
+    <link rel="shortcut icon" href="/assets/alfonsomozkoico.ico" type="image/x-icon">
+
+    <!-- Canonical -->
+    <link rel="canonical" href="https://alfonsomozkoh.github.io/">
+
+    <!-- RSS -->
+    <link rel="alternate" type="application/atom+xml" title="Alfonso Mozko H. | Un estudiante de informática" href="https://alfonsomozkoh.github.io///feed.xml"/>
+
+    <!-- Font Awesome -->
+    <!-- <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"> -->
+    <link rel="stylesheet" type="text/css" href="/assets/css/vendor/font-awesome.min.css">
+
+    <!-- Google Fonts -->
+    
+    <link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,700italic,400italic" rel="stylesheet" type="text/css"> 
+    
+
+    <!-- KaTeX 0.8.3 -->
+    
+    <link rel="stylesheet" type="text/css" href="/assets/css/vendor/katex.min.css">
+    <script src="/assets/js/vendor/katex.min.js">
+    </script>
+    
+
+    <!-- Google Analytics -->
+    
+    <script>
+        (function(i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function() {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-116376962-1', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+    
+        <!-- Google Adsense -->
+    
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <script>
+          (adsbygoogle = window.adsbygoogle || []).push({
+            google_ad_client: "ca-pub-1246732309019508",
+            enable_page_level_ads: true
+          });
+    </script>
+    
+    <!-- seo tags -->
+    <!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>Alfonso Mozko H. | Un estudiante de informática</title>
+<meta name="generator" content="Jekyll v3.7.3" />
+<meta property="og:title" content="Alfonso Mozko H." />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Un estudiante de informática" />
+<meta property="og:description" content="Un estudiante de informática" />
+<link rel="canonical" href="https://alfonsomozkoh.github.io/" />
+<meta property="og:url" content="https://alfonsomozkoh.github.io/" />
+<meta property="og:site_name" content="Alfonso Mozko H." />
+<link rel="next" href="https://alfonsomozkoh.github.io/blog/page2" />
+<script type="application/ld+json">
+{"name":"Alfonso Mozko H.","description":"Un estudiante de informática","@type":"WebSite","url":"https://alfonsomozkoh.github.io/","headline":"Alfonso Mozko H.","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <!-- Manual seo tags -->
+    <!--
+    <title> Alfonso Mozko H. | Un estudiante de informática</title>
+    <meta name="description" content="">
+    -->
+</head>
+
+  <body>
+    <header class="site-header">
+    
+    <!-- Logo and title -->
+	<div class="branding">
+		<a href="/">
+			<img class="avatar" src="/assets/img/alfonsomozkohme.png" alt=""/>
+		</a>
+
+		<h1 class="site-title">
+			<a href="/">Alfonso Mozko H. | Un estudiante de informática</a>
+		</h1>
+	</div>
+    
+    <!-- Toggle menu -->
+    <nav class="clear">
+    <a id="pull" class="toggle" href="#">
+    <i class="fa fa-bars fa-lg"></i>
+    </a>
+    
+    <!-- Menu -->
+    <ul class="hide">
+        <!-- Auto Generation of NORMAL pages in the navbar -->
+        
+        
+        
+        
+        
+        
+        
+        <li class="separator"> | </li>
+        <li>
+            <a class="clear" href="/autor/">
+                Autor
+            </a>
+        </li>
+        
+        
+        
+        
+        
+        
+        <li class="separator"> | </li>
+        <li>
+            <a class="clear" href="/biblioteca/">
+                Biblioteca
+            </a>
+        </li>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <li class="separator"> | </li>
+        <li>
+            <a class="clear" href="/portafolio/">
+                Portafolio
+            </a>
+        </li>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+         
+        
+        <!-- Auto Generation of SPECIAL pages in the navbar -->
+        
+          
+            <li class="separator"> | </li>
+            <li>
+                <a class="clear" href="https://alfonsomozkoh.github.io/search">
+                    <i class="fa fa-search" aria-hidden="true"></i>
+                </a>
+            </li>
+          
+        
+          
+            <li class="separator"> | </li>
+            <li>
+                <a class="clear" href="https://alfonsomozkoh.github.io/tags">
+                    <i class="fa fa-tags" aria-hidden="true"></i>
+                </a>
+            </li>
+          
+        
+    </ul>
+        
+	</nav>
+</header>
+
+    <div class="content">
+      <div class="home">
+  
+  <div id="main" class="call-out"
+  style="background-image: url('/assets/img/pexels/anon.png')">
+    <p> alfonsomozkoh@UnEstudianteDeInformática:~$ <br> Conocimiento compartido </p>
+
+  </div>
+  
+
+  <div class="posts">
+    
+    <div class="post-teaser">
+      
+      <span>
+          <header>
+            <h1>
+              <a class="post-link" href="/2018/07/10/implicando-al-cliente-en-el-proceso-de-desarrollo-de-software.html">
+                Los buenos programadores son buenos comunicadores: Implicando al cliente en el proceso de desarrollo de un sistema
+              </a>
+            </h1>
+            <p class="meta">
+              July 10, 2018
+            </p>
+          </header>
+          <div class="excerpt">
+              Cuando se desarrolla un sistema de manera “apropiada”, el cliente esperará que se le consulte sobre cómo el programa va interactuar con el usuario, ¡a veces hasta sobre el color de las letras que aparecerán en la pantalla! Hay que recordar siempre que una de las cosas más peligrosas que un programador puede hacer es suponer lo que el cliente quiere. Interacción precisa con el usuario, lo que el programa hará cuando se produzca un error, cómo va a presentarse la información en la pantalla etc., todas son cosas sobre las que te garantizo que el cliente va a tener una opinión firme. Lo ideal es que toda esta información sea escrita y detallada en el documento de especificación de diseño funcional (FDS), incluyendo los diseños de las pantallas y detalles sobre las teclas a presionar en cada etapa. Los prototipos que se vayan generando serán utilizados para tener una idea de cómo el programa debe verse y como debería sentirse el usuario al utilizarlo.
+
+
+            <!--Cuando se desarrolla un sistema de manera “apropiada”, el cliente esperará que se le consulte sobre cómo el programa va interactuar con el usuario, ¡a veces hasta sobre el color de las letras que aparecerán en la pantalla! Hay que recordar siempre...-->
+            <!--<a class="button" href="/2018/07/10/implicando-al-cliente-en-el-proceso-de-desarrollo-de-software.html">
+              Seguir leyendo
+            </a>-->
+          </div>
+      </span>
+    </div>
+    
+    <div class="post-teaser">
+      
+      <span>
+          <header>
+            <h1>
+              <a class="post-link" href="/2018/07/05/que-es-sql-importancia-aprender-sql.html">
+                 ¿Por qué es importante aprender SQL?
+              </a>
+            </h1>
+            <p class="meta">
+              July 5, 2018
+            </p>
+          </header>
+          <div class="excerpt">
+              Empecemos por el principio. ¿Qué es SQL?
+SQL son las siglas de Structured Query Language o lenguaje de consulta estructurado por sus siglas en inglés, es utilizado para comunicarnos con una base de datos en donde SQL es el lenguaje estándar para los sistemas manejadores de bases de datos (SQL Server, Access, MySQL, Oracle, etc.).
+
+
+            <!--Empecemos por el principio. ¿Qué es SQL?
+SQL son las siglas de Structured Query Language o lenguaje de consulta estructurado por sus siglas en inglés, es utilizado para comunicarnos con una base de datos en donde SQL es el lenguaje estándar para l...-->
+            <!--<a class="button" href="/2018/07/05/que-es-sql-importancia-aprender-sql.html">
+              Seguir leyendo
+            </a>-->
+          </div>
+      </span>
+    </div>
+    
+    <div class="post-teaser">
+      
+      <span>
+          <header>
+            <h1>
+              <a class="post-link" href="/2018/06/26/qwinff-la-mejor-herramienta-para-convertir-archivos-multimedia-en-linux-y-windows.html">
+                 QWinFF: La herramienta para convertir archivos multimedia en Linux que estabas buscando
+              </a>
+            </h1>
+            <p class="meta">
+              June 26, 2018
+            </p>
+          </header>
+          <div class="excerpt">
+              Estoy más que seguro que alguna vez te encontraste con la necesidad de convertir un video de un formato a otro, o quizá un archivo de audio, y si eres del tipo de personas ultra pragmáticas lo googleaste y terminaste utilizando una herramienta en línea para salir del apuro y listo. Pero, ¿y si en el futuro necesitas de nuevo cambiar el formato de un archivo multimedia?, que tal te vendría un software (gratis y open source además) para realizar esta tarea.
+
+
+            <!--Estoy más que seguro que alguna vez te encontraste con la necesidad de convertir un video de un formato a otro, o quizá un archivo de audio, y si eres del tipo de personas ultra pragmáticas lo googleaste y terminaste utilizando una herramienta en ...-->
+            <!--<a class="button" href="/2018/06/26/qwinff-la-mejor-herramienta-para-convertir-archivos-multimedia-en-linux-y-windows.html">
+              Seguir leyendo
+            </a>-->
+          </div>
+      </span>
+    </div>
+    
+    <div class="post-teaser">
+      
+      <span>
+          <header>
+            <h1>
+              <a class="post-link" href="/2018/06/16/kivy-el-framework-de-codigo-abierto-para-el-desarrollo-rapido-de-aplicaciones-en-python.html">
+                 Kivy: El Framework de código abierto para el desarrollo rápido de aplicaciones en Python
+              </a>
+            </h1>
+            <p class="meta">
+              June 16, 2018
+            </p>
+          </header>
+          <div class="excerpt">
+              Python es considerado por muchos como un lenguaje de programación fácil de aprender, sin mencionar que se trata de uno muy potente con un consumo de recursos sumamente bajo.
+
+
+            <!--Python es considerado por muchos como un lenguaje de programación fácil de aprender, sin mencionar que se trata de uno muy potente con un consumo de recursos sumamente bajo.
+
+Existen muchas maneras de eficientar la programación en Python, constant...-->
+            <!--<a class="button" href="/2018/06/16/kivy-el-framework-de-codigo-abierto-para-el-desarrollo-rapido-de-aplicaciones-en-python.html">
+              Seguir leyendo
+            </a>-->
+          </div>
+      </span>
+    </div>
+    
+    <div class="post-teaser">
+      
+      <span>
+          <header>
+            <h1>
+              <a class="post-link" href="/2018/06/15/que-es-un-framework.html">
+                ¿Qué es un Framework?
+              </a>
+            </h1>
+            <p class="meta">
+              June 15, 2018
+            </p>
+          </header>
+          <div class="excerpt">
+              ¿Qué es un framework o software framework?
+Un framework o software framework, es una plataforma para el desarrollo de aplicaciones de software. Ofrecen a los desarrolladores una base sobre la cual pueden construir o desarrollar programas para una plataforma específica. Por ejemplo, un framework suele contener clases y funciones predefinidas que pueden ser utilizadas para agilizar la entrada de datos, administración de piezas de hardware y facilitar la interacción con otros sistemas de software.
+
+
+            <!--¿Qué es un framework o software framework?
+Un framework o software framework, es una plataforma para el desarrollo de aplicaciones de software. Ofrecen a los desarrolladores una base sobre la cual pueden construir o desarrollar programas para una ...-->
+            <!--<a class="button" href="/2018/06/15/que-es-un-framework.html">
+              Seguir leyendo
+            </a>-->
+          </div>
+      </span>
+    </div>
+    
+    <div class="post-teaser">
+      
+      <span>
+          <header>
+            <h1>
+              <a class="post-link" href="/2018/06/10/directorios-interesantes-en-linux.html">
+                Directorios interesantes en Linux  
+              </a>
+            </h1>
+            <p class="meta">
+              June 10, 2018
+            </p>
+          </header>
+          <div class="excerpt">
+              Linux a diferencia de otros sistemas operativos, tienen una estructura de directorios estándar semejante a la estructura de árbol invertido que por cierto explico más a fondo en mi artículo previo . A continuación les presento algunos directorios que merecen mención especial.
+
+
+            <!--Linux a diferencia de otros sistemas operativos, tienen una estructura de directorios estándar semejante a la estructura de árbol invertido que por cierto explico más a fondo en mi artículo previo . A continuación les presento algunos directorios ...-->
+            <!--<a class="button" href="/2018/06/10/directorios-interesantes-en-linux.html">
+              Seguir leyendo
+            </a>-->
+          </div>
+      </span>
+    </div>
+    
+    <div class="post-teaser">
+      
+      <span>
+          <header>
+            <h1>
+              <a class="post-link" href="/2018/06/07/archivos-y-el-sistema-de-archivos-linux.html">
+                El sistema de archivos de Linux
+              </a>
+            </h1>
+            <p class="meta">
+              June 7, 2018
+            </p>
+          </header>
+          <div class="excerpt">
+              ¿Qué es un archivo?
+Podríamos definir de forma genérica el termino archivo como un conjunto de datos con un nombre asociado.
+
+
+            <!--¿Qué es un archivo?
+Podríamos definir de forma genérica el termino archivo como un conjunto de datos con un nombre asociado.
+
+Debido a su relación con el conjunto de funciones conocidas como llamadas al sistema o system calls se puede entender un ...-->
+            <!--<a class="button" href="/2018/06/07/archivos-y-el-sistema-de-archivos-linux.html">
+              Seguir leyendo
+            </a>-->
+          </div>
+      </span>
+    </div>
+    
+    <div class="post-teaser">
+      
+      <span>
+          <header>
+            <h1>
+              <a class="post-link" href="/2018/06/05/aspectos-basicos-de-la-planeacion-estrategica.html">
+                Aspectos básicos de la Planeación Estratégica
+              </a>
+            </h1>
+            <p class="meta">
+              June 5, 2018
+            </p>
+          </header>
+          <div class="excerpt">
+              ¿Qué es la planeación estratégica?
+Es determinar dónde vamos a estar en el futuro como empresa, en función de las decisiones que tomemos hoy.
+
+
+            <!--¿Qué es la planeación estratégica?
+Es determinar dónde vamos a estar en el futuro como empresa, en función de las decisiones que tomemos hoy.
+
+¿Para qué sirve la planeación estratégica?
+Nos ayuda a tener un concepto de nuestra empresa, lo cual hac...-->
+            <!--<a class="button" href="/2018/06/05/aspectos-basicos-de-la-planeacion-estrategica.html">
+              Seguir leyendo
+            </a>-->
+          </div>
+      </span>
+    </div>
+    
+    <div class="post-teaser">
+      
+      <span>
+          <header>
+            <h1>
+              <a class="post-link" href="/2018/06/03/screenfetch-que-es-y-como-instalarlo-en-cualquier-distribucion-linux.html">
+                ScreenFetch, ¿Qué es y cómo instalarlo en tu distribución GNU/Linux?
+              </a>
+            </h1>
+            <p class="meta">
+              June 3, 2018
+            </p>
+          </header>
+          <div class="excerpt">
+              ¿Qué es screenfetch?
+Screenfetch según Bohnenkamper [1] se trata de:
+
+  Una “herramienta de información Bash Screenshot”. Un práctico script de Bash que se puede utilizar para generar una ingeniosa ficha de que provee información sobre la distribución que se está usando, el tema del terminal, el kernel, el entorno de escritorio, CPU, RAM, y logotipos según la distribución en ASCII que se ven en las capturas de pantalla de todos los días.
+
+
+
+            <!--¿Qué es screenfetch?
+Screenfetch según Bohnenkamper [1] se trata de:
+
+  Una “herramienta de información Bash Screenshot”. Un práctico script de Bash que se puede utilizar para generar una ingeniosa ficha de que provee información sobre la distribu...-->
+            <!--<a class="button" href="/2018/06/03/screenfetch-que-es-y-como-instalarlo-en-cualquier-distribucion-linux.html">
+              Seguir leyendo
+            </a>-->
+          </div>
+      </span>
+    </div>
+    
+    <div class="post-teaser">
+      
+      <span>
+          <header>
+            <h1>
+              <a class="post-link" href="/2018/05/31/consejos-de-salud-de-un-estudiante-de-informatica.html">
+                Consejos de salud de un estudiante de informática
+              </a>
+            </h1>
+            <p class="meta">
+              May 31, 2018
+            </p>
+          </header>
+          <div class="excerpt">
+              Heme aquí, hablando de salud. Nunca me imagine escribiendo un articulo de salud, y es que yo soy de esas personas que no entiende la diferencia entre una aspirina y un diazepam, para mi solo son pastillas, además yo me enfoque en conocer la anatomía de los ordenadores, no de los seres humanos.
+
+
+            <!--Heme aquí, hablando de salud. Nunca me imagine escribiendo un articulo de salud, y es que yo soy de esas personas que no entiende la diferencia entre una aspirina y un diazepam, para mi solo son pastillas, además yo me enfoque en conocer la anatom...-->
+            <!--<a class="button" href="/2018/05/31/consejos-de-salud-de-un-estudiante-de-informatica.html">
+              Seguir leyendo
+            </a>-->
+          </div>
+      </span>
+    </div>
+    
+  </div>
+
+  
+  <div class="pagination">
+    
+    
+    <a href="/blog/page2" class="button" >
+      Siguiente
+      <i class="fa fa-chevron-right"></i>
+    </a>
+    
+  </div>
+  
+</div>
+
+    </div>
+    
+<footer class="site-footer">
+    <p class="text">Creado con <a href="https://jekyllrb.com/">Jekyll</a> editado por <a href="https://www.facebook.com/UnEstudianteDeInformatica/">Alfonso Mozko H.</a>
+</p>
+            <div class="footer-icons">
+                <ul>
+                <!-- Social icons from Font Awesome, if enabled -->
+                
+<li>
+	<a href="https://alfonsomozkoh.github.io/feed.xml" title="Follow RSS feed">
+		<span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+        </span>
+	</a>
+</li>
+
+
+
+<li>
+	<a href="mailto:alfonsomozkoh@vivaldi.net" title="Email">
+		<span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+        </span>
+	</a>
+</li>
+
+
+
+
+
+
+
+
+
+<li>
+	<a href="https://www.facebook.com/UnEstudianteDeInformatica" title="Sígueme Facebook">
+		<span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+        </span>
+	</a>
+</li>
+
+
+
+
+
+<li>
+	<a href="https://github.com/alfonsomozkoh" title="Sígueme GitHub">
+		<span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+        </span>
+	</a>
+</li>
+
+
+
+
+
+<li>
+	<a href="http://instagram.com/alfonsomozkoh" title="Sígueme Instagram">
+		<span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-instagram fa-stack-1x fa-inverse"></i>
+        </span>
+	</a>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+	<a href="https://twitter.com/AlfonsoMozkoH" title="Sígueme Twitter" class="type">
+        <span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+        </span>
+	</a>
+</li>
+
+
+
+
+
+
+
+
+                </ul>
+            </div>
+</footer>
+
+
+
+
+  </body>
+</html>
