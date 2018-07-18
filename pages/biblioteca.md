@@ -11,7 +11,7 @@ tags:
 ---
 ## Bienvenido a la biblioteca personal de Un estudiante de informática
 
-En este pequeño espacio podrás encontrar una pequeña lista en orden alfabético con documentos PDF de libre divulgación de varios temas como: informática, sistemas operativos, algebra lineal, lenguajes de programación, manuales de uso, calculo, notas de clase, ejercicios, etcétera. 
+En este espacio podrás encontrar una lista en orden alfabético con documentos PDF de libre divulgación de varios temas como: informática, sistemas operativos, algebra lineal, lenguajes de programación, manuales de uso, calculo, notas de clase, ejercicios, etcétera. 
 
 El objetivo es compartir contigo mi biblioteca personal, de manera que los documentos que me han ayudado a lo largo de mis estudios te ayuden a ti también.
 
