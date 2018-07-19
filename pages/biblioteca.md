@@ -1,7 +1,6 @@
 ---
 title: Biblioteca
-permalink: "/biblioteca/"
-layout: page
+layout: post
 feature-img: assets/img/pexels/biblioteca.png
 tags:
 - Biblioteca
@@ -95,6 +94,3 @@ Si quieres compartir documentos como libros o informes de corte académico es im
 #### Y
 
 #### Z
-
-{% include disquis.html %}
-
