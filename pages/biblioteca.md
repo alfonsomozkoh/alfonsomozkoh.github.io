@@ -64,6 +64,7 @@ Si quieres compartir documentos como libros o informes de corte académico es im
 #### M
 
 + [MicrosoftSQLServerNotesForProfessionals.pdf](https://github.com/alfonsomozkoh/Docs/raw/master/Libros/MicrosoftSQLServerNotesForProfessionals.pdf)
++ [Manualito SQL: Como crearStored Procedures, Triggers y Visytas](https://github.com/alfonsomozkoh/Docs/raw/master/Libros/manualitoSQL.pdf)
 
 #### N
 
