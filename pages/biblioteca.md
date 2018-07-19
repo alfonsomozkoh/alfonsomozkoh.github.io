@@ -2,7 +2,6 @@
 title: Biblioteca
 permalink: "/biblioteca/"
 layout: page
-comments: true
 feature-img: assets/img/pexels/biblioteca.png
 tags:
 - Biblioteca
