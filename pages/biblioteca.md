@@ -1,6 +1,6 @@
 ---
 title: Biblioteca
-permalink: "/Biblioteca"
+permalink: "Biblioteca"
 layout: post
 feature-img: assets/img/pexels/biblioteca.png
 tags:
