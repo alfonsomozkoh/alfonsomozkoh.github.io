@@ -13,7 +13,7 @@ tags:
 
 En este espacio podrás encontrar una lista en orden alfabético con documentos PDF de libre divulgación de varios temas como: informática, sistemas operativos, algebra lineal, lenguajes de programación, manuales de uso, calculo, notas de clase, ejercicios, etcétera. 
 
-El objetivo es compartir contigo mi biblioteca personal, de manera que los documentos que me han ayudado a lo largo de mis estudios te ayuden a ti también.
+El objetivo es compartir contigo mi biblioteca personal, asi los documentos que me han ayudado a lo largo de mis estudios te ayuden a ti también.
 
 ### Publica tu contenido en este Blog y pon tu granito de arena 
 Para compartir tus apuntes de clase, ejercicios o ejemplos puedes mandarme un correo a [alfonsomozkoh@vivaldi.net](mailto:alonsomozkoh@vivaldi.net) con el asunto **aporte de: tu_nombre_y_tipo_de_documento**, no olvides nombrar correctamente el documento de manera que corresponda al contenido. Una vez compartidos tus apuntes serán publicados con una mención de agradecimiento por tu aporte con la comunidad  *(opcional si así lo deseas)*
