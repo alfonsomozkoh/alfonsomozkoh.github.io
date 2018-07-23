@@ -28,42 +28,43 @@ Si quieres compartir documentos como libros o informes de corte académico es im
 
 #### C
 
-+ [CSSNotesForProfessionals.pdf](https://github.com/alfonsomozkoh/Docs/raw/master/Libros/CSSNotesForProfessionals.pdf
++[ CSharp Notes For Professionals ](https://github.com/alfonsomozkoh/Docs/raw/master/Libros/CSharpNotesForProfessionals.pdf)
++ [CSS Notes For Professionals](https://github.com/alfonsomozkoh/Docs/raw/master/Libros/CSSNotesForProfessionals.pdf
 )
-+ [csharp-yellow-book-2016-spanish-edition.pdf](https://github.com/alfonsomozkoh/Docs/raw/master/Libros/csharp-yellow-book-2016-spanish-edition.pdf)
++ [Csharp yellow book 2016 spanish edition](https://github.com/alfonsomozkoh/Docs/raw/master/Libros/csharp-yellow-book-2016-spanish-edition.pdf)
 
 #### D
 
 #### E
 
-+ [ExcelVBANotesForProfessionals.pdf](https://github.com/alfonsomozkoh/Docs/raw/master/Libros/ExcelVBANotesForProfessionals.pdf)
++ [Excel VBA Notes For Professionals](https://github.com/alfonsomozkoh/Docs/raw/master/Libros/ExcelVBANotesForProfessionals.pdf)
 
 #### F
 
 #### G
 
-+ [GitNotesForProfessionals.pdf](https://github.com/alfonsomozkoh/Docs/raw/master/Libros/GitNotesForProfessionals.pdf
++ [Git Notes For Professionals](https://github.com/alfonsomozkoh/Docs/raw/master/Libros/GitNotesForProfessionals.pdf
 )
 
 #### H
 
-+ [HTML5NotesForProfessionals.pdf](https://github.com/alfonsomozkoh/Docs/raw/master/Libros/HTML5NotesForProfessionals.pdf)
++ [HTML5 Notes For Professionals](https://github.com/alfonsomozkoh/Docs/raw/master/Libros/HTML5NotesForProfessionals.pdf)
 
 #### I
 
 #### J
 
-+ [JavaScriptNotesForProfessionals.pdf](https://github.com/alfonsomozkoh/Docs/raw/master/Libros/JavaScriptNotesForProfessionals.pdf)
++ [JavaScript Notes For Professionals](https://github.com/alfonsomozkoh/Docs/raw/master/Libros/JavaScriptNotesForProfessionals.pdf)
 
 #### K
 
 #### L
 
-+ [LinuxNotesForProfessionals.pdf](https://github.com/alfonsomozkoh/Docs/raw/master/Libros/LinuxNotesForProfessionals.pdf)
++ [Linux Notes For Professionals](https://github.com/alfonsomozkoh/Docs/raw/master/Libros/LinuxNotesForProfessionals.pdf)
 
 #### M
 
-+ [MicrosoftSQLServerNotesForProfessionals.pdf](https://github.com/alfonsomozkoh/Docs/raw/master/Libros/MicrosoftSQLServerNotesForProfessionals.pdf)
++ [Microsoft SQL Server Notes For Professionals](https://github.com/alfonsomozkoh/Docs/raw/master/Libros/MicrosoftSQLServerNotesForProfessionals.pdf)
 + [Manualito SQL: Como crear Stored Procedures, Triggers y Vistas](https://github.com/alfonsomozkoh/Docs/raw/master/Libros/manualitoSQL.pdf)
 
 #### N
@@ -86,8 +87,9 @@ Si quieres compartir documentos como libros o informes de corte académico es im
 
 #### V
 
-+ [VBANotesForProfessionals.pdf](https://github.com/alfonsomozkoh/Docs/raw/master/Libros/VBANotesForProfessionals.pdf
++ [Visual Basic For Applications Notes For Professionals](https://github.com/alfonsomozkoh/Docs/raw/master/Libros/VBANotesForProfessionals.pdf
 )
++[Visual Basic .NET Notes For Professionals](https://github.com/alfonsomozkoh/Docs/raw/master/Libros/VisualBasic_NETNotesForProfessionals.pdf)
 
 #### W
 
