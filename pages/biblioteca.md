@@ -28,7 +28,7 @@ Si quieres compartir documentos como libros o informes de corte académico es im
 
 #### C
 
-+[ CSharp Notes For Professionals ](https://github.com/alfonsomozkoh/Docs/raw/master/Libros/CSharpNotesForProfessionals.pdf)
++ [ CSharp Notes For Professionals ](https://github.com/alfonsomozkoh/Docs/raw/master/Libros/CSharpNotesForProfessionals.pdf)
 + [CSS Notes For Professionals](https://github.com/alfonsomozkoh/Docs/raw/master/Libros/CSSNotesForProfessionals.pdf
 )
 + [Csharp yellow book 2016 spanish edition](https://github.com/alfonsomozkoh/Docs/raw/master/Libros/csharp-yellow-book-2016-spanish-edition.pdf)
@@ -89,7 +89,7 @@ Si quieres compartir documentos como libros o informes de corte académico es im
 
 + [Visual Basic For Applications Notes For Professionals](https://github.com/alfonsomozkoh/Docs/raw/master/Libros/VBANotesForProfessionals.pdf
 )
-+[Visual Basic .NET Notes For Professionals](https://github.com/alfonsomozkoh/Docs/raw/master/Libros/VisualBasic_NETNotesForProfessionals.pdf)
++ [Visual Basic .NET Notes For Professionals](https://github.com/alfonsomozkoh/Docs/raw/master/Libros/VisualBasic_NETNotesForProfessionals.pdf)
 
 #### W
 
