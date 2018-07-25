@@ -6,4 +6,4 @@ subtitle: Blog un Estudiante de informática
 feature-img: assets/img/pexels/computer.jpeg
 ---
 
-{% include blog.html %}
+{% include blog_post.html %}
