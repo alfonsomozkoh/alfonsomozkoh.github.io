@@ -25,11 +25,11 @@ Ahí me encontraba yo, llenando una base de datos con registros de prueba para d
 ### La solución: Crear una tabla en Excel con la misma estructura que la tabla de tu base de datos y hacer uso de la función CONCATENAR
 Imagina que tienes una tabla en base de datos llamada *Tbl007_GastoBase_Viaje* que contiene los gastos en viáticos de una "X" compañía. Esta tabla tiene las siguientes columnas.
 
-![insertinto_excel_sql]({{ site.baseurl }}/assets/img/pexels/insertinto_excel_sql.png)
+![insertinto_excel_sql]({{ site.baseurl }}/assets/img/pexels/insertinto_excel_sql.PNG)
 
 Lo primero que debes hacer es crearte una tabla en Excel con la misma estructura, y me refiero a que los nombres de las columnas deben ser exactamente iguales.
 
-![insertinto_excel]({{ site.baseurl }}/assets/img/pexels/insertinto_excel.png)
+![insertinto_excel]({{ site.baseurl }}/assets/img/pexels/insertinto_excel.PNG)
 
 En mi caso, el contenido de la tabla creada en la hoja de Excel con las mismas columnas que la tabla en mi base de datos, abarca desde la celda **A2** hasta la celda **K2** de ancho y de ahí hacia abajo. Ahora nos posicionamos en la celda **L2** e introducimos lo siguiente:
 
