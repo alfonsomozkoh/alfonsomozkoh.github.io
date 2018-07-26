@@ -36,19 +36,19 @@ Nota que la función que indicamos ´´=+CONCATENAR(INSERT INTO(Campos_de_tu_tab
 
 Ya con los datos que deseamos INSERT INTO nuestra base de datos, lo que debes hacer ahora es copiar y pegar esta función hacia abajo, de manera que se vayan creando tantos INSERT INTO como filas tengas en tu tabla de Excel. El resultado será algo así más o menos:
 
-``=+CONCATENAR("INSERT INTO Tbl007_GastoBase_Viaje(ID,Ruta,Tipo,Repro,Ppto,Ciudad_Destino,Hospedaje_Repro,Hospedaje_Ppto,Comida_Repro,Comida_PPTO,Moneda) VALUES ('",B2,"','",C2,"',",D2,",",E2,",'",F2,"',",G2,",",H2,",",I2,",",J2,",'",K2,"')")
+``=+CONCATENAR("INSERT INTO Tbl007_GastoBase_Viaje(ID,Ruta,Tipo,Repro,Ppto,Ciudad_Destino,Hospedaje_Repro,Hospedaje_Ppto,Comida_Repro,Comida_PPTO,Moneda) VALUES ('",B2,"','",C2,"',",D2,",",E2,",'",F2,"',",G2,",",H2,",",I2,",",J2,",'",K2,"')")``
 
-=+CONCATENAR("INSERT INTO Tbl007_GastoBase_Viaje(ID,Ruta,Tipo,Repro,Ppto,Ciudad_Destino,Hospedaje_Repro,Hospedaje_Ppto,Comida_Repro,Comida_PPTO,Moneda) VALUES ('",B3,"','",C3,"',",D3,",",E3,",'",F3,"',",G3,",",H3,",",I3,",",J3,",'",K3,"')")
+``=+CONCATENAR("INSERT INTO Tbl007_GastoBase_Viaje(ID,Ruta,Tipo,Repro,Ppto,Ciudad_Destino,Hospedaje_Repro,Hospedaje_Ppto,Comida_Repro,Comida_PPTO,Moneda) VALUES ('",B3,"','",C3,"',",D3,",",E3,",'",F3,"',",G3,",",H3,",",I3,",",J3,",'",K3,"')")``
 
-=+CONCATENAR("INSERT INTO Tbl007_GastoBase_Viaje(ID,Ruta,Tipo,Repro,Ppto,Ciudad_Destino,Hospedaje_Repro,Hospedaje_Ppto,Comida_Repro,Comida_PPTO,Moneda) VALUES ('",B4,"','",C4,"',",D4,",",E4,",'",F4,"',",G4,",",H4,",",I4,",",J4,",'",K4,"')")``
+``=+CONCATENAR("INSERT INTO Tbl007_GastoBase_Viaje(ID,Ruta,Tipo,Repro,Ppto,Ciudad_Destino,Hospedaje_Repro,Hospedaje_Ppto,Comida_Repro,Comida_PPTO,Moneda) VALUES ('",B4,"','",C4,"',",D4,",",E4,",'",F4,"',",G4,",",H4,",",I4,",",J4,",'",K4,"')")``
 
 Si seleccionas y copias todas esas celdas que contienen esta estructura el resultado será el siguiente:
 
-``INSERT INTO Tbl007_GastoBase_Viaje(ID,Ruta,Tipo,Repro,Ppto,Ciudad_Destino,Hospedaje_Repro,Hospedaje_Ppto,Comida_Repro,Comida_PPTO,Moneda VALUES ('GDL-MEX-CME-MEX-GDL','Nacional',4489,4646,'CIUDAD DEL CARMEN',0,0,750,750,'MXN')´´
+``INSERT INTO Tbl007_GastoBase_Viaje(ID,Ruta,Tipo,Repro,Ppto,Ciudad_Destino,Hospedaje_Repro,Hospedaje_Ppto,Comida_Repro,Comida_PPTO,Moneda VALUES ('GDL-MEX-CME-MEX-GDL','Nacional',4489,4646,'CIUDAD DEL CARMEN',0,0,750,750,'MXN')``
 
-INSERT INTO Tbl007_GastoBase_Viaje(ID,Ruta,Tipo,Repro,Ppto,Ciudad_Destino,Hospedaje_Repro,Hospedaje_Ppto,Comida_Repro,Comida_PPTO,Moneda VALUES ('GDL-MEX-GDL','Nacional',3816,3949,'MEXICO',1750,1811,750,750,'MXN')´´
+``INSERT INTO Tbl007_GastoBase_Viaje(ID,Ruta,Tipo,Repro,Ppto,Ciudad_Destino,Hospedaje_Repro,Hospedaje_Ppto,Comida_Repro,Comida_PPTO,Moneda VALUES ('GDL-MEX-GDL','Nacional',3816,3949,'MEXICO',1750,1811,750,750,'MXN')``
 
-INSERT INTO Tbl007_GastoBase_Viaje(ID,Ruta,Tipo,Repro,Ppto,Ciudad_Destino,Hospedaje_Repro,Hospedaje_Ppto,Comida_Repro,Comida_PPTO,Moneda VALUES ('GDL-MEX-GRU-MEX-GDL','Internacional',29578,30613,'SAO PAOLO ',0,352,1500,1500,'MXN')``
+``INSERT INTO Tbl007_GastoBase_Viaje(ID,Ruta,Tipo,Repro,Ppto,Ciudad_Destino,Hospedaje_Repro,Hospedaje_Ppto,Comida_Repro,Comida_PPTO,Moneda VALUES ('GDL-MEX-GRU-MEX-GDL','Internacional',29578,30613,'SAO PAOLO ',0,352,1500,1500,'MXN')``
 
 Ahora ya tienes todo listo para hacer tu mega INSERT INTO dentro de tu tabla, lo puedes hacer con SQL Server Management Studio, phpMyAdmin, o con cualquier manejador de bases de datos.
 
