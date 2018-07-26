@@ -19,6 +19,7 @@ Ahí me encontraba yo, llenando una base de datos con registros de prueba para d
 
 ### La solución: Crear una tabla en Excel con la misma estructura que la tabla de tu base de datos y hacer uso de la función CONCATENAR
 Imagina que tienes una tabla en base de datos llamada *Tbl007_GastoBase_Viaje* que contiene los gastos en viáticos de una "X" compañía. Esta tabla tiene las siguientes columnas.
+
 ![Tabla de tu base de datos]({{ site.baseurl }}/assets/img/pexels/ insert_into_excel_sql.png
 
 Lo primero que debes hacer es crearte una tabla en Excel con la misma estructura, y me refiero a que los nombres de las columnas deben ser exactamente iguales.
