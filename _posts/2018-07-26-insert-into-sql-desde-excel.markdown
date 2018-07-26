@@ -25,21 +25,17 @@ Ahí me encontraba yo, llenando una base de datos con registros de prueba para d
 ### La solución: Crear una tabla en Excel con la misma estructura que la tabla de tu base de datos y hacer uso de la función CONCATENAR
 Imagina que tienes una tabla en base de datos llamada *Tbl007_GastoBase_Viaje* que contiene los gastos en viáticos de una "X" compañía. Esta tabla tiene las siguientes columnas.
 
-
-![Tabla de tu base de datos]({{ site.baseurl }}/assets/img/pexels/ insertinto_excel_sql.png
-
+![Tabla SQL]({{ site.baseurl }}/assets/img/pexels/insertinto_excel_sql.png)
 
 Lo primero que debes hacer es crearte una tabla en Excel con la misma estructura, y me refiero a que los nombres de las columnas deben ser exactamente iguales.
 
-
-![Tabla en excel con los mismos campos que la tabla de tu base de datos]({{ site.baseurl }}/assets/img/pexels/ insertinto_excel.png
-
+![Tabla Excel con columnas SQL]({{ site.baseurl }}/assets/img/pexels/insertinto_excel.png)
 
 En mi caso, el contenido de la tabla creada en la hoja de Excel con las mismas columnas que la tabla en mi base de datos, abarca desde la celda **A2** hasta la celda **K2** de ancho y de ahí hacia abajo. Ahora nos posicionamos en la celda **L2** e introducimos lo siguiente:
 
 ``=+CONCATENAR("INSERT INTO Tbl007_GastoBase_Viaje VALUES(ID,Ruta,Tipo,Repro,Ppto,Ciudad_Destino,Hospedaje_Repro,Hospedaje_Ppto,Comida_Repro,Comida_PPTO,Moneda)('",B2,"','",C2,"',",D2,",",E2,",'",F2,"',",G2,",",H2,",",I2,",",J2,",'",K2,"')")``
 
-Nota que la función que indicamos ´´=+CONCATENAR(INSERT INTO(Campos_de_tu_tabla) VALUES (Coordenadas_de_excel) ´´ nos permite crear una sentencia **INSERT INTO** de **SQL** y el resultado es el siguiente:
+Nota que la función que indicamos ``=+CONCATENAR(INSERT INTO(Campos_de_tu_tabla) VALUES (Coordenadas_de_excel)`` nos permite crear una sentencia **INSERT INTO** de **SQL** y el resultado es el siguiente:
 
 ``INSERT INTO Tbl007_GastoBase_Viaje(ID,Ruta,Tipo,Repro,Ppto,Ciudad_Destino,Hospedaje_Repro,Hospedaje_Ppto,Comida_Repro,Comida_PPTO,Moneda) VALUES ('GDL-MEX-CME-MEX-GDL','Nacional',4489,4646,'CIUDAD DEL CARMEN',0,0,750,750,'MXN')``
 
