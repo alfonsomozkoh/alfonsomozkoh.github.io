@@ -1,5 +1,6 @@
 ---
 title: "¿Cómo crear una sentencia INSERT INTO en Excel para SQL?"
+date: 2018-07-26 00:00:00 Z
 tags:
 - SQL
 - Excel
