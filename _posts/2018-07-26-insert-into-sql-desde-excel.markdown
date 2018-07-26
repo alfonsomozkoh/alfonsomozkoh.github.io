@@ -4,10 +4,11 @@ date: 2018-07-26 00:00:00 Z
 tags:
 - SQL
 - Excel
-- INSERT INTO
+- SQL Server Management Studio
+- phpMyAdmin
 - Concatenar
 layout: post
-feature-img: assets/img/pexels/INSERT_INTO_con_ayuda_de_excel.png
+feature-img: assets/img/pexels/insertinto_con_ayuda_de_excel.png
 author:
 - Alfonso Mozko H.
 ---
