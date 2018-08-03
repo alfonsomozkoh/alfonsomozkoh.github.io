@@ -28,44 +28,44 @@ Si quieres compartir documentos como libros o informes de corte académico es im
 
 #### C
 
-+ [ CSharp Notes For Professionals ](https://github.com/alfonsomozkoh/Docs/raw/master/Libros/CSharpNotesForProfessionals.pdf)
-+ [CSS Notes For Professionals](https://github.com/alfonsomozkoh/Docs/raw/master/Libros/CSSNotesForProfessionals.pdf
-)
-+ [Csharp yellow book 2016 spanish edition](https://github.com/alfonsomozkoh/Docs/raw/master/Libros/csharp-yellow-book-2016-spanish-edition.pdf)
++ [ CSharp Notes For Professionals ](https://app.box.com/s/nf42drjwixt8st8pv7t9vpe0837gxotm)
++ [CSS Notes For Professionals](https://app.box.com/s/mmvdig3kb4t2h0gu9clcynzu6512zxhg)
++ [Csharp yellow book 2016 spanish edition](https://app.box.com/s/chthlb90br9edgvcwschvslmq0f0ayed)
 
 #### D
 
++ [Diseño Gráfico de páginas web](https://app.box.com/s/3qmim13qndoz9mv98pwtsie3s6atb3ge) *Recomendado* 
++ 
+
 #### E
 
-+ [Excel VBA Notes For Professionals](https://github.com/alfonsomozkoh/Docs/raw/master/Libros/ExcelVBANotesForProfessionals.pdf)
++ [Excel VBA Notes For Professionals](https://app.box.com/s/g19nofmkdipxc3w7btmk23bt4wa7f3w1)
 
 #### F
 
 #### G
 
-+ [Git Notes For Professionals](https://github.com/alfonsomozkoh/Docs/raw/master/Libros/GitNotesForProfessionals.pdf
-)
++ [Git Notes For Professionals](https://app.box.com/s/k43hrul6sfi5mhi5rh8ggkk01xrs8oj0)
 
 #### H
 
-+ [HTML5 Notes For Professionals](https://github.com/alfonsomozkoh/Docs/raw/master/Libros/HTML5NotesForProfessionals.pdf)
++ [HTML5 Notes For Professionals](https://app.box.com/s/2qn4yxcghkpm5k108cjz788zmbi3tskr)
++ [Curso Completo de HTML por Jorge Ferrer, Victor Gracia y Rodrigo Garcia](https://app.box.com/s/069h50uz7pm34lzh2p8m5j4wc948oa97)
++ [El gran libro de HTML5, CSS3 y JavaScript](https://app.box.com/s/rineksr5uw68lhjboa9z5uwdq2vcauk8) *Recomendado*
 
 #### I
 
 #### J
 
-+ [JavaScript Notes For Professionals](https://github.com/alfonsomozkoh/Docs/raw/master/Libros/JavaScriptNotesForProfessionals.pdf)
++ [JavaScript Notes For Professionals](https://app.box.com/s/r19qkxj8iqwpzoct4fh0vz6he5tg0x7x)
 
 #### K
 
 #### L
 
-+ [Linux Notes For Professionals](https://github.com/alfonsomozkoh/Docs/raw/master/Libros/LinuxNotesForProfessionals.pdf)
++ [Linux Notes For Professionals](https://app.box.com/s/erens9u9zsyq3j9gooc9as5szutgogqb)
 
 #### M
-
-+ [Microsoft SQL Server Notes For Professionals](https://github.com/alfonsomozkoh/Docs/raw/master/Libros/MicrosoftSQLServerNotesForProfessionals.pdf)
-+ [Manualito SQL: Como crear Stored Procedures, Triggers y Vistas](https://github.com/alfonsomozkoh/Docs/raw/master/Libros/manualitoSQL.pdf)
 
 #### N
 
@@ -81,20 +81,27 @@ Si quieres compartir documentos como libros o informes de corte académico es im
 
 #### S
 
++ [Microsoft SQL Server Notes For Professionals](https://app.box.com/s/6ab6x57k45mnrbj1hz9y5n8hgdcte6x2)
++ + [Manualito SQL: Como crear Stored Procedures, Triggers y Vistas](https://github.com/alfonsomozkoh/Docs/raw/master/Libros/manualitoSQL.pdf) 
+
 #### T
 
 #### U
 
++ [El ambiente de programación UNIX](https://app.box.com/s/pivxddqp2dc0nsvb6o742ppfldqe04cv) *Está en inglés*
+
 #### V
 
-+ [Visual Basic For Applications Notes For Professionals](https://github.com/alfonsomozkoh/Docs/raw/master/Libros/VBANotesForProfessionals.pdf
-)
-+ [Visual Basic .NET Notes For Professionals](https://github.com/alfonsomozkoh/Docs/raw/master/Libros/VisualBasic_NETNotesForProfessionals.pdf)
++ [Visual Basic For Applications Notes For Professionals](https://app.box.com/s/7qqmxei566s9ph7ninoiicxsb4zruack)
++ [Visual Basic .NET Notes For Professionals](https://app.box.com/s/u6s1pdenp8hhwfet51lhzejl6h73p2vo)
 
 #### W
+
++ [Manual básico de creación de páginas web, Universidad de Murcia](https://app.box.com/s/0nysx70z5xpt0inlm1kfuoprd4zswtoj) *Recomendado*
 
 #### X
 
 #### Y
 
++ [Guia básica del Framework Yii 2.0](https://app.box.com/s/me69zih6l82fp1h73tc8cgqsty23oto6) *Excelente framework de PHP* 
 #### Z
