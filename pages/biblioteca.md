@@ -1,6 +1,6 @@
 ---
 title: Biblioteca
-permalink: "Biblioteca"
+permalink: "biblioteca"
 layout: post
 feature-img: assets/img/pexels/biblioteca.png
 tags:
@@ -75,6 +75,8 @@ Si quieres compartir documentos como libros o informes de corte académico es im
 
 #### P
 
++ [Guía de Los Fundamentos Para La Dirección de Proyectos (Guía del Pmbok 5a Edición)](https://www.edu.xunta.gal/centros/cfrpontevedra/aulavirtual2/pluginfile.php/13688/mod_folder/content/0/libros_pmbok_guide5th_spanish.pdf?forcedownload=1) 
+
 #### Q
 
 #### R
@@ -82,7 +84,7 @@ Si quieres compartir documentos como libros o informes de corte académico es im
 #### S
 
 + [Microsoft SQL Server Notes For Professionals](https://app.box.com/s/6ab6x57k45mnrbj1hz9y5n8hgdcte6x2)
-+ + [Manualito SQL: Como crear Stored Procedures, Triggers y Vistas](https://github.com/alfonsomozkoh/Docs/raw/master/Libros/manualitoSQL.pdf) 
++ [Manualito SQL: Como crear Stored Procedures, Triggers y Vistas](https://github.com/alfonsomozkoh/Docs/raw/master/Libros/manualitoSQL.pdf) 
 
 #### T
 
