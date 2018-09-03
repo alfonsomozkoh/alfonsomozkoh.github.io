@@ -14,7 +14,7 @@ author:
 - Alfonso Mozko H.
 ---
 
-Navegando por los grupos de los que formo parte en Facebook, me he dado cuenta de que la comunidad de habla hispana tiene dos grandes dudas, la primera es ¿Cuál es el mejor lenguaje de programación para iniciar? (de la cual hablaremos después) Y la segunda y por la que decidí escribir este artículo es ¿Cuál es el mejor IDE | editor de texto | framework para programar en X o Y lenguaje?
+Navegando por los grupos de los que formo parte en Facebook, me he dado cuenta de que la comunidad de habla hispana tiene dos grandes dudas, la primera es ¿Cuál es el mejor lenguaje de programación para iniciar? (de la cual hablaremos después) Y la segunda y por la que decidí escribir este artículo es ¿Cuál es el mejor IDE/editor de texto/framework para programar en X o Y lenguaje?
 
 Para esta última interrogante suelen haber muchas respuestas, pero hay una en especial que hace que me duela la panza por la falta de sutileza con la que los individuos aseveran confundidos que Visual Studio y Visual Studio Code son lo mismo, y es por eso que hoy vamos a hablar de las diferencias entre Visual Studio y Visual Studio Code.
 
