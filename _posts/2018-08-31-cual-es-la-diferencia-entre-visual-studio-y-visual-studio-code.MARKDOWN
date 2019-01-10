@@ -61,4 +61,3 @@ Y bien, ahora que sabes que Visual Studio y Visual Studio Code no son lo mismo y
 
 ### Únete a la discusión
 ¿Para qué utilizas Visual Studio Code?, ¿Para qué utilizas el IDE Visual Studio?, ¿Prefieres Visual Studio Code o el Bloc de notas?
-
