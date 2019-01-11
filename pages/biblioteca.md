@@ -81,6 +81,8 @@ Si quieres compartir documentos como libros o informes de corte académico es im
 
 #### R
 
++ [Manual de recursos de Internet](https://app.box.com/s/5vt6gwy3zbcivjg54ek7jj7nihjvwm3p)
+
 #### S
 
 + [Microsoft SQL Server Notes For Professionals](https://app.box.com/s/6ab6x57k45mnrbj1hz9y5n8hgdcte6x2)
