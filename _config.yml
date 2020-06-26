@@ -22,7 +22,7 @@ theme_settings:
   gravatar: 
   header_text: "<p> alfonsomozkoh@UnEstudianteDeInformática:~$ <br> Conocimiento compartido
     </p>\n"
-  header_text_feature_image: assets/img/pexels/anon.png
+  header_text_feature_image: assets/img/pexels/alfonsomozkoh_portada2020.jpg
   footer_text: 'Creado con <a href="https://jekyllrb.com/">Jekyll</a> editado por
     <a href="https://www.facebook.com/UnEstudianteDeInformatica/">Alfonso Mozko H.</a>
 
