@@ -58,6 +58,7 @@ Si quieres compartir documentos como libros o informes de corte académico es im
 #### J
 
 + [JavaScript Notes For Professionals](https://app.box.com/s/r19qkxj8iqwpzoct4fh0vz6he5tg0x7x)
++ [Java Notes For Professionals](https://books.goalkicker.com/JavaBook/JavaNotesForProfessionals.pdf)
 
 #### K
 
@@ -68,6 +69,8 @@ Si quieres compartir documentos como libros o informes de corte académico es im
 #### M
 
 #### N
+
++ [Introduccion a Netbeans](http://ocw.udl.cat/enginyeria-i-arquitectura/programacio-2/continguts-1/1-introduccioi81n-a-netbeans.pdf)
 
 #### Ñ
 
