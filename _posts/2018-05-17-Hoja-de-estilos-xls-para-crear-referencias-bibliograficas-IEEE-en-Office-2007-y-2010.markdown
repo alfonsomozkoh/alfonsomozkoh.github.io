@@ -1,5 +1,5 @@
 ---
-title: Hoja de estilos .xls para crear referencias bibliográficas IEEE en Office 2007
+title: Hoja de estilos .xsl para crear referencias bibliográficas IEEE en Office 2007
   y 2010
 date: 2018-05-17 00:00:00 Z
 tags:
