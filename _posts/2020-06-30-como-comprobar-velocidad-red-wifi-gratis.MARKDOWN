@@ -1,6 +1,6 @@
 ---
 title: "Cómo comprobar la velocidad de tu red gratis Wifi o Ethernet"
-date: 2018-08-31 00:00:00 Z
+date: 2020-06-30 00:00:00 Z
 tags:
 - WiFi
 - Ethernet 
@@ -12,50 +12,23 @@ author:
 - Alfonso Mozko H.
 ---
 
-Navegando por los grupos de los que formo parte en Facebook, me he dado cuenta de que la comunidad de habla hispana tiene dos grandes dudas, la primera es ¿Cuál es el mejor lenguaje de programación para iniciar? (de la cual hablaremos después) Y la segunda y por la que decidí escribir este artículo es ¿Cuál es el mejor IDE/editor de texto/framework para programar en X o Y lenguaje?
+## ¿Que afecta la velocidad de tu red?
+Hay muchos factores diferentes que intervienen en una buena conexión de red: velocidad, latencia, ancho de banda, el rendimiento, la pérdida de paquetes, el [jitter](https://en.wikipedia.org/wiki/Jitter), etc.
 
-Para esta última interrogante suelen haber muchas respuestas, pero hay una en especial que hace que me duela la panza por la falta de sutileza con la que los individuos aseveran confundidos que Visual Studio y Visual Studio Code son lo mismo, y es por eso que hoy vamos a hablar de las diferencias entre Visual Studio y Visual Studio Code.
+## Sitios web que te permiten comprobar la velocidad de tu red WiFi o Ethernet 
+Para comprobar la velocidad de la red, hay una serie de sitios a los que puedes ir. A continuación, les presento algunos ejemplos de sitios web que te permiten comprobar la velocidad de tu red de forma gratuita.
 
-Empecemos con las definiciones
+### [Skytap](http://speedtest.skytap.com/)
 
-## ¿Qué es Visual Studio?
-[Microsoft Visual Studio]( https://visualstudio.microsoft.com/es/vs/) (2017, 2012, 2010, Community, Entreprise Professional…) es un entorno de desarrollo integrado o  [*Integrated Development Environment* **(IDE)**]( https://es.wikipedia.org/wiki/Entorno_de_desarrollo_integrado) disponible para Windows y Mac, es decir, es un conjunto de herramientas para diseñar, desarrollar y compilar diferentes aplicaciones de software.
+![Skytap]({{ site.baseurl }}/assets/img/pexels/speedtest-skytap.png)
 
-Por otro lado…
-## ¿Qué es Visual Studio Code?
-[Visual Studio Code]( https://code.visualstudio.com/?wt.mc_id=DX_841432) es un [depurador]( https://es.wikipedia.org/wiki/Depuración_de_programas) y [editor de código fuente]( https://es.wikipedia.org/wiki/Editor_de_código_fuente) liviano y multiplataforma disponible en Windows, Linux y Mac muy parecido al famoso Sublime Text o Atom.
+### [Speedtest](https://www.speedtest.net/)
 
-## Diferencias entre Visual Studio (IDE) y Visual Studio Code
-Sé que son muchas más de las que voy a mencionar, sin embargo aquí enlisto las que considero más relevantes.
+![Speedtest]({{ site.baseurl }}/assets/img/pexels/speedtest-net.png)
 
-### Visual Studio Code
-+ Con Visual Studio Code puedes navegar entre múltiples carpetas de proyectos, los cuales pueden estar escritos en una cantidad muy diversa de lenguajes de programación.
-+ Visual Studio Code es multiplataforma, puede ser “instalado” en sistemas Windows, Linux y Mac, incluso puede ser usado de forma portable.
-+ Visual Studio Code está dirigido principalmente a desarrolladores front-end.
-+ Visual Studio Code es muy rápido y liviano.
-+ Visual Studio Code no tiene soporte [scaffolding]( https://en.wikipedia.org/wiki/Scaffold_(programming))
+### [SpeedOfMe](https://speedof.me/)
 
-### Visual Studio (IDE)
-+ Visual Studio solo funciona en Windows y Mac
-+ Visual Studio trabaja sobre proyectos del tipo *Solutions*
-+ Visual Studio tiene como objetivo a cualquier tipo de desarrollador, ya que actualmente soporta una cantidad muy variada de lenguajes de programación para aplicativos de escritorio, web y móviles.
-+ En comparación con Visual Studio Code, Visual Studio no es tan rápido en su ejecución ni mucho menos tan liviano. Esto debido a la cantidad de elementos y funcionalidades con las que cuenta, que lo hacen mucho más pesado, según las necesidades de cada usuario puede llegar a requerir de 2.3  hasta poco más de 60 GB de espacio en disco. 
-+ Visual Studio está construido para soportar los lenguajes basados en  el framework .Net
+![Speed_Of_Me]({{ site.baseurl }}/assets/img/pexels/speedof-me.png)
 
-### Combatiendo la confusión 
-Hablemos de las ideas erróneas más comunes que las personas suelen tener sobre estas dos piezas de software.
-
-#### Idea equivocada número 1
-Referirse a Visual Studio Code como un IDE o entorno de desarrollo integrado. En este punto sé que pueden argumentar sobre las extensiones que potencian a VS Code, sin embargo, Microsoft define claramente a Visual  Studio Code como un editor de código ligero. 
-
-#### Idea equivocada número 2
-Las diferencias que existen entre las versiones del IDE Visual Studio (Community, Professional y Enterprise) están asociadas a la cantidad de funciones y características
-
-El siguiente [cuadro compara las versiones del IDE Visual Studio de Microsoft]( https://visualstudio.microsoft.com/es/vs/compare/?rr=https%3A%2F%2Fwww.quora.com%2FWhat-is-the-difference-between-Visual-Studio-and-Visual-Studio-Code), estas características no las tiene Visual Studio Code.  
-
-![VS_Versiones]({{ site.baseurl }}/assets/img/pexels/vscomparativa.gif)
-
-Y bien, ahora que sabes que Visual Studio y Visual Studio Code no son lo mismo y conoces sus principales diferencias comparte esta información para que cada vez haya menos confusión.
-
-### Únete a la discusión
-¿Para qué utilizas Visual Studio Code?, ¿Para qué utilizas el IDE Visual Studio?, ¿Prefieres Visual Studio Code o el Bloc de notas?
+El número clave es la velocidad de descarga. Si la velocidad de descarga es inferior a 3 - tendrás problemas de rendimiento.
+Si la velocidad de la red es baja en tu lugar de trabajo, deberías revisar la configuración de tu red y de ser posible reportarlo con el departamento de IT de tu proveedor de internet.
