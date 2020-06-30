@@ -1,5 +1,5 @@
 ---
-title: Cómo comprobar la velocidad de tu red gratis (Wifi o Ethernet)
+title: "Cómo comprobar la velocidad de tu red gratis (Wifi o Ethernet)"
 date: 2020-06-30 00:00:00 Z
 tags:
 - WiFi Speedtest
