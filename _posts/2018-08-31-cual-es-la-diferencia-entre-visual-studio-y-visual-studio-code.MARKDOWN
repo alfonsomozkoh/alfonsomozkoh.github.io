@@ -2,12 +2,15 @@
 title: "¿Cúal es la diferencia ente Visual Studio y Visual Studio Code?"
 date: 2018-08-31 00:00:00 Z
 tags:
-- Visual Studio IDE
-- Visual Studio Code 
-- Visual Studio Community 
+- visual studio code
+- visual studio ide
+- visual studio professional 
+- visual studio community 
 - IDE
 - Editor de Código 
 - Diferencia Visual Studio Code
+- visual studio 2019
+- visual studio community
 layout: post
 feature-img: assets/img/pexels/VSCvsVS.gif
 author:
