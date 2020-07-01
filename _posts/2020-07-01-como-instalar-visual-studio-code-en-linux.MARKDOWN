@@ -55,7 +55,8 @@ Debido a su tamaño, y a que no son enchiladas, la instalación tarda aproximada
 
 ![visual-studio-code-en-linux]({{ site.baseurl }}/assets/img/pexels/instalar-visual-studio-en-ubuntu.png)
 
-->[![Gana-Bitcoins-Con-Anuncios-En-Tu-Web]({{ site.baseurl }}/assets/img/pexels/a-ads-referido.gif)](https://a-ads.com?partner=1416871)<-
+-> [![Gana-Bitcoins-Con-Anuncios-En-Tu-Web]({{ site.baseurl }}/assets/img/pexels/a-ads-referido.gif)](https://a-ads.com?partner=1416871) <-
+
 
 
 
