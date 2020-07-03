@@ -16,6 +16,7 @@ tags:
 - visual studio code en fedora
 layout: post
 feature-img: assets/img/pexels/visual-studio-code-instalado-en-CentOS.png
+thumbnail: assets/img/pexels/visual-studio-code-instalado-en-CentOS.png
 author:
 - Alfonso Mozko H.
 ---

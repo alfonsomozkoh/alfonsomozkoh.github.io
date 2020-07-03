@@ -13,6 +13,7 @@ tags:
 - visual studio community
 layout: post
 feature-img: assets/img/pexels/VSCvsVS.gif
+thumbnail: assets/img/pexels/VSCvsVS.gif
 author:
 - Alfonso Mozko H.
 ---
