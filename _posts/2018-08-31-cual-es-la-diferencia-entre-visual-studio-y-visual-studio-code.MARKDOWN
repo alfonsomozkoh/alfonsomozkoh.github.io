@@ -48,6 +48,8 @@ Sé que son muchas más de las que voy a mencionar, sin embargo aquí enlisto la
 + En comparación con Visual Studio Code, Visual Studio no es tan rápido en su ejecución ni mucho menos tan liviano. Esto debido a la cantidad de elementos y funcionalidades con las que cuenta, que lo hacen mucho más pesado, según las necesidades de cada usuario puede llegar a requerir de 2.3  hasta poco más de 60 GB de espacio en disco. 
 + Visual Studio está construido para soportar los lenguajes basados en  el framework .Net
 
+<a target="_blank" href="https://www.amazon.com.mx/VicTsing-Inal%C3%A1mbrico-Respiraci%C3%B3n-Programables-Ergon%C3%B3micos/dp/B06XTG5HS8/ref=as_li_ss_tl?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;dchild=1&amp;keywords=mouse+gamer&amp;qid=1595268318&amp;sr=8-8&amp;linkCode=sl1&amp;tag=amozkoh-20&amp;linkId=937988f30af6757641c47a91c354f3f4&amp;language=es_MX&_encoding=UTF8&tag=amozkoh-20&linkCode=ur2&linkId=fe9f4a50bd7da94080d4f4e9030941a8&camp=1789&creative=9325">El mejor Mouse Gamer </a><img src="//ir-mx.amazon-adsystem.com/e/ir?t=amozkoh-20&l=ur2&o=34" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 ### Combatiendo la confusión 
 Hablemos de las ideas erróneas más comunes que las personas suelen tener sobre estas dos piezas de software.
 
