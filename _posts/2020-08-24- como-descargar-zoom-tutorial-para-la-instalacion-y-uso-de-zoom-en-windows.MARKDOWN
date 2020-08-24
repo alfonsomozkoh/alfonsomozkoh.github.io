@@ -17,6 +17,8 @@ author:
 - Alfonso Mozko H.
 ---
 
+He notado como las búsquedas de tutoriales para la instalación de Zoom han incrementado mucho desde la cuarentena, y a pesar de que existen otras alternativas para crear reuniones en línea, no podemos negar que Zoom se ha ido ganando su lugar como la aplicación preferida. Eso me impulso a compartir con ustedes este tutorial para la instalación de Zoom, además de una reseña a sus características, componentes principales y algunos consejos que podrían salvarte en tus clases en línea.
+
 ## Recomendaciones para el uso de Zoom
 
 Antes de empezar, deberás tener en cuenta esto como mínimo para el uso de Zoom:
