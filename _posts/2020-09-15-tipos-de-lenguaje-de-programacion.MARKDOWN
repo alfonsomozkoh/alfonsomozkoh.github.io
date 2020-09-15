@@ -39,8 +39,6 @@ Algunas dificultades de los lenguajes de bajo nivel o [ensamblador](https://es.w
 
 Tienen una sintaxis más simple y fácil de entender para el usuario, ya que usa expresiones del inglés y operaciones matemáticas comunes. Como dificultad podemos mencionar que es necesario usar un compilador que es una herramienta que traduce el código al lenguaje máquina, lo que lo hace más lento.
 
-![lenguajes-alto-nivel](https://i.ibb.co/s1WHSL5/alto-nivel-alfonsomozko.png)
-
 Existe una subclasificación:
 
 ## Lenguajes de programación Procedurales
@@ -48,6 +46,8 @@ Existe una subclasificación:
 - Se estructura el código en líneas empleando procedimientos, funciones o subprocesos.
 - Deben tener un inicio y un fin.
 - Se debe ser claro con el orden de los pasos para solucionar el problema lo que facilita la comprensión.
+
+![lenguajes-alto-nivel](https://i.ibb.co/s1WHSL5/alto-nivel-alfonsomozko.png)
 
 Dentro de estos se encuentran:
 
