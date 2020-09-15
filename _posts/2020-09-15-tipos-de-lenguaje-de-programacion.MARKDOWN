@@ -47,8 +47,6 @@ Existe una subclasificación:
 - Deben tener un inicio y un fin.
 - Se debe ser claro con el orden de los pasos para solucionar el problema lo que facilita la comprensión.
 
-![lenguajes-Procedurales](https://i.ibb.co/G2V8Qqd/https://i.ibb.co/yB46ntw/lenguajes-Procedurales-alfonsomozko.png)
-
 Dentro de estos se encuentran:
 
 ### Lenguajes de programación Imperativos
