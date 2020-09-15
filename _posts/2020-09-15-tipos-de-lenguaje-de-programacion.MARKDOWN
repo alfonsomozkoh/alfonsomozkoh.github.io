@@ -31,13 +31,15 @@ Algunas dificultades de los lenguajes de bajo nivel o [ensamblador](https://es.w
 
 ![lenguajes-ensamblador](https://i.ibb.co/Wkd86pJ/lenguajes-ensamblador-alfonsomozko.png)
 
+![lenguajes-simbolicos](https://i.ibb.co/G2V8Qqd/lenguajes-simbolicos-de-alto-nivel-alfonsomozko.png)
+
 ## Lenguajes simbólicos de alto nivel
 
 ### Características y dificultades de los lenguajes simbólicos de alto nivel
 
 Tienen una sintaxis más simple y fácil de entender para el usuario, ya que usa expresiones del inglés y operaciones matemáticas comunes. Como dificultad podemos mencionar que es necesario usar un compilador que es una herramienta que traduce el código al lenguaje máquina, lo que lo hace más lento.
 
-![lenguajes-simbolicos](https://i.ibb.co/G2V8Qqd/lenguajes-simbolicos-de-alto-nivel-alfonsomozko.png)
+![lenguajes-alto-nivel](https://i.ibb.co/s1WHSL5/alto-nivel-alfonsomozko.png)
 
 Existe una subclasificación:
 
