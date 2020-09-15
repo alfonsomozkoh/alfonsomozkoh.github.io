@@ -92,3 +92,7 @@ En estos se encuentran:
 
 Es probable que te haya dejado mas dudas que respuestas, sin embargo, espero pronto continuar con más información al respecto.
 Ahora que puedes elegir el tipo de lenguaje de programación que más se ajuste al estilo de programación que quieras adoptar, el que más se te facilite y sobre todo el que sea más acorde a tus necesidades.
+
+### Actividad:
+
+Te dejo un ejercicio, ¿Serás capaz de adivinar a que lenguajes hacen referencia las imágenes que deje como ejemplo en cada caso? de ser así, nómbralos en los comentarios, el ganador será reconocido en el siguiente Post :D.
