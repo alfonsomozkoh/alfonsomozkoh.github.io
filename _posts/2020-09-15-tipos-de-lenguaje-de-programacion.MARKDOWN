@@ -45,7 +45,7 @@ Existe una subclasificación:
 
 - Se estructura el código en líneas empleando procedimientos, funciones o subprocesos.
 - Deben tener un inicio y un fin.
-- Ser claro con el orden de los pasos para solucionar el problema lo que facilita la comprensión.
+- Se debe ser claro con el orden de los pasos para solucionar el problema lo que facilita la comprensión.
 
 ![lenguajes-Procedurales](https://i.ibb.co/G2V8Qqd/https://i.ibb.co/yB46ntw/lenguajes-Procedurales-alfonsomozko.png)
 
@@ -53,23 +53,23 @@ Dentro de estos se encuentran:
 
 ### Lenguajes de programación Imperativos
 
-- Da a la máquina instrucciones, sentencias u órdenes sobre cómo debe resolver un problema.
-- Usa datos, variables y condiciones.
+- Dan a la máquina instrucciones, sentencias u órdenes sobre cómo debe resolver un problema.
+- Usan datos, variables y condiciones.
 
 ![lenguajes-Imperativos](https://i.ibb.co/5Ls4PSH/Lenguajes-Imperativos-alfonsomozkoh.png)
 
 ### Lenguajes de programación Orientados a objetos
 
-- Ve al problema como un objeto que tiene propiedades, funcionalidades o atributos asociados
-- Descompone cada propiedad, funcionalidad o atributo en clases y, a su vez, en datos, elementos y acciones de los que está compuesto el objeto.
+- Ven al problema como un objeto que tiene propiedades, funcionalidades o atributos asociados.
+- Descomponen cada propiedad, funcionalidad o atributo en clases y, a su vez, en datos, elementos y acciones de los que está compuesto el objeto.
 - Todo debe ser descrito como algoritmos.
 
 ![lenguajes-Orientados-a-objetos](https://i.ibb.co/6v4thK0/Orientados-a-objetos-Alfonsomozko.png)
 
 ### Lenguajes de programación Declarativos
 
-- Explica en sentencias el problema para poder resolverlo.
-- Emplea una lógica que establezca relaciones entre objetos y/o valores.
+- Explican en sentencias el problema para poder resolverlo.
+- Emplean una lógica que establezca relaciones entre objetos y/o valores.
 
 ![lenguajes-Declarativos](https://i.ibb.co/s2DgdL0/Lenguajes-Declarativos.png)
 
@@ -77,9 +77,9 @@ En estos se encuentran:
 
 ### Funcionales
 
-- Resuelve problemas con funciones que establezcan control.
-- No emplea variables solo funciones que son parte de otras funciones.
-- Permite tener códigos muy breves y compactos sobre todo cuando se tratan de problemas matemáticos.
+- Resuelven problemas con funciones que establezcan control.
+- No emplean variables solo funciones que son parte de otras funciones.
+- Permiten tener códigos muy breves y compactos sobre todo cuando se tratan de problemas matemáticos.
 
 ![lenguajes-Funcionales](https://i.ibb.co/L82hLhw/Funcionales-alfonsomozko.png)
 
