@@ -9,6 +9,7 @@ tags:
 - Concatenar
 layout: post
 feature-img: assets/img/pexels/insertinto_con_ayuda_de_excel.png
+thumbnail: assets/img/pexels/insertinto_con_ayuda_de_excel.png
 author:
 - Alfonso Mozko H.
 ---
