@@ -49,7 +49,7 @@ Sé que son muchas más de las que voy a mencionar, sin embargo aquí enlisto la
 + Visual Studio está construido para soportar los lenguajes basados en  el framework .Net
 
 
-[![banner_amazon](<center>https://i.ibb.co/MNj5btB/a-MAZON-BANNER-Max-Qualityhttpsamzn-to31-B8-QLa.jpg</center>)](https://amzn.to/3dVxSJV)
+[![banner_amazon](https://i.ibb.co/MNj5btB/a-MAZON-BANNER-Max-Qualityhttpsamzn-to31-B8-QLa.jpg)](https://amzn.to/3dVxSJV)
 
 
 ### Combatiendo la confusión 
