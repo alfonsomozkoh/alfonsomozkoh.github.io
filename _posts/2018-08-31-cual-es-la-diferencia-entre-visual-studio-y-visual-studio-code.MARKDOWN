@@ -12,7 +12,7 @@ tags:
 - visual studio 2019
 - visual studio community
 layout: post
-feature-img: assets/img/pexels/VSCvsVS.gif
+feature-img: assets/img/pexels/Visual-Studio-Code.png
 thumbnail: assets/img/pexels/VSCvsVS.gif
 author:
 - Alfonso Mozko H.
