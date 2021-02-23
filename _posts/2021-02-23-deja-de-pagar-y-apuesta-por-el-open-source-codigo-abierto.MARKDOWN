@@ -66,18 +66,19 @@ Bitly es un servicio que permite acortar las URLs para compartirlas en las redes
 2. [Zero Width Shortener](https://zws.im/)
 3. [Waa ai](https://waa.ai/)
 
+### Alternativas a Google Analytics 
+Hablamos de herramientas de análisis web, sinceramente creo que analytics de google cumple bien su función, sin embargo aquí van mis recomendaciones.
 
+1. [Fathom](https://usefathom.com/)
+2. [Matomo](https://matomo.org/)
+3. [Plausible](https://plausible.io/)
+4. [Ackee](https://ackee.electerious.com/)
 
+### Alternativas a Github/Bitbucket
+No se si soy capaz de explicar que es Github/Bitbucket, por lo que voy a citar a la wikipedia:
 
+> GitHub es una forja para alojar proyectos utilizando el sistema de control de versiones Git. 
+> Se utiliza principalmente para la creación de código fuente de programas de ordenador.
 
-
-
-
-
-
-
-
-
-
-
-
+1. [Gitlab](https://about.gitlab.com/)
+2. [Gitea](https://gitea.io/en-us/)
