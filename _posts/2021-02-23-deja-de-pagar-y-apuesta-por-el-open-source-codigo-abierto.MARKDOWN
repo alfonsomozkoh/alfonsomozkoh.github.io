@@ -11,6 +11,8 @@ tags:
 - Alternativa a Wix
 - Alternativa a Shopify
 - Alternativa a Slack
+- Alternativa a Bitly
+- Alternativa a Mailchimp
 layout: post
 feature-img: assets/img/pexels/Open Source_Freepik.jpg
 thumbnail: assets/img/pexels/Open Source_Freepik.jpg
@@ -31,3 +33,51 @@ Shopify es una popular plataforma de pago con muchas funciones para crear un eco
 3. [Prestashop](https://www.prestashop.com/en)
 
 ### Alternativas a Slack / Microsoft Teams
+Estas son plataformas de comunicación y colaboración ( ¡Con chat además!) para trabajo, reuniones de video, almacenamiento de archivos, etc. Son herramientas indispensables en estos momentos, sin embargo,  ambas están atadas a pagos por suscripción. Como principales alternativas a Slack y a MS Teams tenemos:
+
+1. [Rocket Chat](https://rocket.chat/)
+2. [Wire](https://wire.com/en/)
+
+### Alternativa a Firebase
+Seré breve, necesitas una alternativa a Firebase para tu aplicativo, te recomiendo:
+
+1. [Appwrite](https://appwrite.io/)
+
+### Alternativa a ngRok
+¿Qué demonios es ngRok? en resumen, es una herramienta permite exponer a internet una URL generada dinámicamente, la cual apunta a un servicio web que se está ejecutando en nuestra máquina local, aquí está una alternativa.
+
+1. [Localtunnel](https://github.com/localtunnel/localtunnel)
+
+### Alternativas a Postman
+Postman es la herramienta más popular para el testing de API’s REST etc. Afortunadamente hay más de una alternativa a Postman Open Source.
+
+1. [Insombia](https://insomnia.rest/)
+2. [Postwoman](https://postwoman.io/) Bueno ya no se llama asi ahora es [Hoppscotch](https://hoppscotch.io/)
+
+### Alternativas a Sendgrid y Mailchimp
+Estas herramientas son proveedores de servicios de marketing por correo electrónico, una buena alternativa para estas es:
+
+1. [Mail For Good](https://mail-for-good.netlify.app/)
+
+### Alternativas a Bitly
+Bitly es un servicio que permite acortar las URLs para compartirlas en las redes sociales, aquí algunas alternativas.
+
+1. [Polr](https://polrproject.org/)
+2. [Zero Width Shortener](https://zws.im/)
+3. [Waa ai](https://waa.ai/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
