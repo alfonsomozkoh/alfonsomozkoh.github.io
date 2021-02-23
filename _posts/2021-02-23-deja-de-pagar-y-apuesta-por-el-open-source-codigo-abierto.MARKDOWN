@@ -12,8 +12,8 @@ tags:
 - Alternativa a Shopify
 - Alternativa a Slack
 layout: post
-feature-img: https://i.ibb.co/jk8Nrr3/Open-Source-Freepik.jpg
-thumbnail: https://i.ibb.co/jk8Nrr3/Open-Source-Freepik.jpg
+feature-img: assets/img/pexels/Open Source_Freepik.jpg
+thumbnail: assets/img/pexels/Open Source_Freepik.jpg
 author:
 - Alfonso Mozko H.
 ---
@@ -31,5 +31,3 @@ Shopify es una popular plataforma de pago con muchas funciones para crear un eco
 3. [Prestashop](https://www.prestashop.com/en)
 
 ### Alternativas a Slack / Microsoft Teams
-
-
