@@ -12,8 +12,8 @@ tags:
 - visual studio 2019
 - visual studio community
 layout: post
-feature-img: assets/img/pexels/Visual-Studio-Code.png
-thumbnail: assets/img/pexels/Visual-Studio-Code.png
+feature-img: assets/img/pexels/VSCvsVS.gif
+thumbnail: assets/img/pexels/VSCvsVS.gif
 author:
 - Alfonso Mozko H.
 ---
