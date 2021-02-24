@@ -162,7 +162,7 @@ Yo se que como desarrollador si no eres bueno en el diseño web, alguna vez estu
 1. [GrapeJs](https://grapesjs.com/)
 2. [You Don't Need Wordpress](https://www.youdontneedwp.com/) (Esta opcion solo cuenta como alternativa a Wix si y solo si tu objetivo es crear un blog)
 
-### ¿Conoces más alternativas open source a estas piezas de software famosas? 
+### ¿Conoces otras alternativas open source a estas piezas de software famosas? 
 Si es así, por favor compártelas con todos en los comentarios, yo haré actualizaciones a este artículo con la mención de quien compartió la herramienta.
 
 Últimamente he estado ocupado con otros proyectos y mi trabajo como consultor, así que me disculpo por abandonar este espacio, ya estoy preparando nuevos temas y maneras de compartir información con la comunidad.
