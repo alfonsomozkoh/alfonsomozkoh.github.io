@@ -53,7 +53,7 @@ Volviendo a la versión de Visual Studio para Windows, hacemos clic en el botón
 	<a href="https://amzn.to/328fFnk"><img src="https://i.ibb.co/FqS5T2Q/versiones-de-visual-studio.png" alt="Las diferentes opciones de descarga de visual Studio"></a>
 </center>
 
-### Las diferentes opciones de descarga de Visual Studio 
+## Las diferentes opciones de descarga de Visual Studio 
 
 ### Visual Studio Community Version 
 
@@ -75,31 +75,31 @@ La versión empresarial de Visual Studio está destinada a ser usada por organiz
 Una vez que hayas hecho clic en el botón de descarga, esta pantalla aparecerá, y el instalador de Visual Studio Community será descargado en tu ordenador.
 
 <center>
-[![Descargar Visual Studio Community 2019 gratis para Windows](https://i.ibb.co/1rD2VkT/descargar-visual-studio-pc-gratis.png)](https://amzn.to/328fFnk)
+	<a href="https://amzn.to/328fFnk"><img src="https://i.ibb.co/1rD2VkT/descargar-visual-studio-pc-gratis.png" alt="Descargar Visual Studio Community 2019 gratis para Windows"></a>
 </center>
 
 Una vez descargado puedes navegar a tu folder de descargas o hacer clic en el icono de descarga ubicado en la esquina inferior izquierda de Google Chrome, una vez hayas hecho clic aparecerá una ventana como la siguiente, solo haz clic en **Continuar**
 
 <center>
-[![instalar visual studio community 2019](https://i.ibb.co/4mJ3yrx/visual-studio-installer.png)](https://amzn.to/328fFnk)
+	<a href="https://amzn.to/328fFnk"><img src="https://i.ibb.co/4mJ3yrx/visual-studio-installer.png" alt="instalar visual studio community 2019"></a>
 </center>
 
 Una vez hayas dado clic en continuar, aparecerá una ventana como la siguiente, la ventana de selección del tipo de instalación, donde puedes visualizar los diferentes componentes, paquetes de lenguaje y workloads que están disponibles, además de la ubicación donde serán instalados. 
 
 <center>
-[![componentes visual studio community 2019](https://i.ibb.co/j3c4dNH/componentes-visual-stuido-community.png)](https://amzn.to/3wOsLEj)
+	<a href="https://amzn.to/3wOsLEj"><img src="https://i.ibb.co/j3c4dNH/componentes-visual-stuido-community.png" alt="componentes visual studio community 2019"></a>
 </center>
 
 Aquí es donde podrás añadir componentes de acuerdo a tus necesidades, por ejemplo, si vas a trabajar con Python, o PHP será necesario que instales esos workloads. Si lo que quieres hacer es vincular Visual Studio con motores de desarrollo de videojuegos como Unity puedes instalar ese componente también.
 
 <center>
-[![desarrollo de videojuegos en visual studio community 2019 gratis](https://i.ibb.co/h1R2P3Z/desarrollar-videojuegos-con-visual-studio-community-gratis.png)](https://amzn.to/3wOsLEj)
+	<a href="https://amzn.to/3wOsLEj"><img src="https://i.ibb.co/h1R2P3Z/desarrollar-videojuegos-con-visual-studio-community-gratis.png" alt="desarrollo de videojuegos en visual studio community 2019 gratis"></a>
 </center>
 
 El tamaño de la instalación de Visual Studio Community 2019 dependerá de los módulos, componentes y funcionalidades que decidas agregar a tu instalación. Para ejemplo práctico de este post, voy a instalar solo el componente **Data storage and processing**, para el cual se requiere un total de 8.3 GB de espacio en disco para su instalación.
 
 <center>
-[![cuanto pesa la instalacion de visual studio community 2019](https://i.ibb.co/TB2dpB5/cuantos-gb-pesa-visual-studio.png)](https://amzn.to/3wOsLEj)
+	<a href="https://amzn.to/2ODKhtN"><img src="https://i.ibb.co/TB2dpB5/cuantos-gb-pesa-visual-studio.png" alt="cuanto pesa la instalacion de visual studio community 2019"></a>
 </center>
  
 ### Instalación de componentes individuales en Visual Studio Community 2019
@@ -107,7 +107,7 @@ El tamaño de la instalación de Visual Studio Community 2019 dependerá de los 
 En la siguiente pestaña podremos visualizar los componentes individuales disponibles para su instalación, algunos ya están seleccionados dependiendo de nuestra selección previa. Mi consejo en esta sección es, **asegurate de saber lo que haces en este paso**, si no tienes mucha idea de que se trata esta sección sugiero encarecidamente que la dejes como esta. 
 
 <center>
-[![Instalar componentes en visual studio](https://i.ibb.co/mhDmq2L/instalar-componentes-visual-studio.png)](https://amzn.to/2OHCAmw)
+	<a href="https://amzn.to/2OHCAmw"><img src="https://i.ibb.co/mhDmq2L/instalar-componentes-visual-studio.png" alt="Instalar componentes en visual studio"></a>
 </center>
 
 ### Instalación de paquetes de lenguaje en Visual Studio Community 2019
@@ -115,7 +115,7 @@ En la siguiente pestaña podremos visualizar los componentes individuales dispon
 En la pestaña de instalación de lenguajes aparecerá seleccionado por default aquel que tenga el sistema operativo anfitrión, en mi caso es Inglés (Mi PC tiene teclado en ingles, asi que decidi dejarla así), pero puedes escoger entre varios idiomas, incluso instalar dos o más a la vez
 
 <center>
-[![Instalar paquetes de lenguaje en visual studio](https://i.ibb.co/jZN1rdX/instalar-idiomas-visual-studio.png)](https://amzn.to/2OHCAmw)
+	<a href="https://amzn.to/3saFVIc"><img src="https://i.ibb.co/jZN1rdX/instalar-idiomas-visual-studio.png" alt="Instalar paquetes de lenguaje en visual studio"></a>
 </center>
 
 ### Ubicación de la instalación de Visual Studio Community 2019
@@ -123,16 +123,14 @@ En la pestaña de instalación de lenguajes aparecerá seleccionado por default 
 En esta sección lo que yo sugiero es dejar las rutas por default, a menos que tengas alguna otra directiva. Las rutas de instalación de Visual Studio Community en tu pc serán similares a estas:
 
 <center>
-[![ruta de instalacion en visual studio](https://i.ibb.co/mNKQ84w/ruta-de-instalacion-visual-studio.png)](https://amzn.to/3a1Vvjn)
+	<a href="https://amzn.to/3a1Vvjn"><img src="https://i.ibb.co/mNKQ84w/ruta-de-instalacion-visual-studio.png" alt="ruta de instalacion en visual studio"></a>
 </center>
 
 **Antes de dar clic en el botón de instalar sugiero que des un nuevo vistazo a las pestañas para evitar olvidar algo.**
 Si ya estas listo, solo queda dar clic en ese suculento botón de **Instalar**, a continuación verás una ventana con el progreso de la instalación, ahora solo queda esperar, sugiero ver todas las temporadas de Juego de tronos, o quizá obtener un diplomado mientras se instala Visual Studio en tu PC porque dependiendo de las opciones que hayas seleccionado puede tomarse en verdad su tiempo.
 
-[img][/img].
-
 <center>
-[![instalando visual studio community](https://i.ibb.co/dc6hM8M/instalando-visual-studio-code-gratis.png)](https://amzn.to/3wOvz4j)
+	<a href="https://amzn.to/3a4Ak01"><img src="https://i.ibb.co/dc6hM8M/instalando-visual-studio-code-gratis.png" alt="instalando visual studio community"></a>
 </center>
 
 ## ¿Qué hacer después de instalar Visual Studio Community 2019?
