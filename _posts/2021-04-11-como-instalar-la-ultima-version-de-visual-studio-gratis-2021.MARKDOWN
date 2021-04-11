@@ -25,7 +25,7 @@ No te preocupes, Microsoft no es tan malvado como parece ( Microsoft, ¡suéltam
 
 ## ¿Cómo instalar la última versión de Visual Studio totalmente gratis? -2021
 
-Hola, hoy les mostrare como conseguir el entorno de desarrollo integrado (IDE) Visual Studio en su última versión y gratis.
+Hola, hoy te mostrare como conseguir el entorno de desarrollo integrado (IDE) Visual Studio en su última versión y gratis.
 
 ### ¿Para qué sirve Visual Studio?
 
