@@ -14,8 +14,8 @@ tags:
 - instalar visual studio community gratis
 - visual studio gratis
 layout: post
-feature-img: https://i.ibb.co/M9LdBPD/visual-studio-descarga-gratis.jpg
-thumbnail: https://i.ibb.co/M9LdBPD/visual-studio-descarga-gratis.jpg
+feature-img: assets/img/pexels/visual_studio_descarga_gratis.jpg
+thumbnail: assets/img/pexels/visual_studio_descarga_gratis.jpg
 author:
 - Alfonso Mozko H.
 ---
@@ -38,7 +38,7 @@ Lo primero que tienes que hacer es navegar a la página web oficial [visualstudi
 Al ingresar a este sitio web, lo primero que veras es lo siguiente: 
 
 <center>
-[![descargar visual studio gratis](https://i.ibb.co/M9LdBPD/visual-studio-descarga-gratis.jpg)](https://amzn.to/2PXgOvF)
+[![descargar visual studio gratis](https://i.ibb.co/M9LdBPD/visual-studio-descarga-gratis.jpg)][https://amzn.to/2PXgOvF]
 
 
 </center>
