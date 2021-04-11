@@ -1,5 +1,5 @@
 ---
-title: "¿Cúal es la diferencia ente Visual Studio y Visual Studio Code?"
+title: "¿Cúal es la diferencia entre Visual Studio y Visual Studio Code?"
 date: 2018-08-31 00:00:00 Z
 tags:
 - visual studio code
