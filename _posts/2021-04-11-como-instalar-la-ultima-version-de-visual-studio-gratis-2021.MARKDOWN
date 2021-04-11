@@ -38,9 +38,7 @@ Lo primero que tienes que hacer es navegar a la página web oficial [visualstudi
 Al ingresar a este sitio web, lo primero que veras es lo siguiente: 
 
 <center>
-[![descargar visual studio gratis](https://i.ibb.co/M9LdBPD/visual-studio-descarga-gratis.jpg)][https://amzn.to/2PXgOvF]
-
-
+	<a href="https://amzn.to/2PXgOvF"><img src="https://i.ibb.co/M9LdBPD/visual-studio-descarga-gratis.jpg" alt="descargar visual studio gratis"></a>
 </center>
 
 Podrás ver tres opciones para descargar Visual Studio disponibles, la primera de las opciones desde el lado izquierdo, tiene el logo de Windows y es que en eso está pensada esa versión, es decir, se trata de Visual Studio enfocado a ordenadores / Laptops que tengan el sistema operativo Windows instalado, y esta es la versión en la que nos vamos a enfocar. 
@@ -52,7 +50,7 @@ Por último la opción de descarga que se encuentra a la extrema derecha se trat
 Volviendo a la versión de Visual Studio para Windows, hacemos clic en el botón dropdown que dice: *Descargar Visual Studio*, al instante se nos ofrecerán tres diferentes opciones para descargar Visual Studio.
 
 <center>
-[![Las diferentes opciones de descarga de visual Studio](https://i.ibb.co/FqS5T2Q/versiones-de-visual-studio.png)](https://amzn.to/328fFnk)
+	<a href="https://amzn.to/328fFnk"><img src="https://i.ibb.co/FqS5T2Q/versiones-de-visual-studio.png" alt="Las diferentes opciones de descarga de visual Studio"></a>
 </center>
 
 ### Las diferentes opciones de descarga de Visual Studio 
