@@ -59,7 +59,9 @@ Las diferencias que existen entre las versiones del IDE Visual Studio (Community
 
 El siguiente [cuadro compara las versiones del IDE Visual Studio de Microsoft]( https://visualstudio.microsoft.com/es/vs/compare/?rr=https%3A%2F%2Fwww.quora.com%2FWhat-is-the-difference-between-Visual-Studio-and-Visual-Studio-Code), estas características no las tiene Visual Studio Code.  
 
-![VS_Versiones]({{ site.baseurl }}/assets/img/pexels/vscomparativa.gif)
+<center>
+	<a href="https://amzn.to/2PXgOvF"><img src="{{ site.baseurl }}/assets/img/pexels/vscomparativa.gif" alt="Versiones Visual Studio"></a>
+</center>
 
 Y bien, ahora que sabes que Visual Studio y Visual Studio Code no son lo mismo y conoces sus principales diferencias comparte esta información para que cada vez haya menos confusión.
 
